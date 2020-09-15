@@ -2,7 +2,7 @@
 
 本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行hack。
 
-本项目创建于2020年9月13日。最近一次更新时间为9月13日。
+本项目创建于2020年9月13日。最近一次更新时间为9月14日。
 
 ## 0x01-Python书籍
 
@@ -13,6 +13,7 @@
 三、算法学习
 
 - [ ] https://github.com/TheAlgorithms/Python
+- [ ] [《Python的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python)
 
 四、Web编程
 
