@@ -8,6 +8,9 @@
 
 一、基础入门
 
+- [ ] [《Python语言基础50课》](https://github.com/jackfrued/Python-Core-50-Courses)
+- [ ] [《Python-100天从新手到大师》](https://github.com/jackfrued/Python-100-Days)
+- [ ] [《以撸代码的形式学习Python》](https://github.com/xianhu/LearnPython)
 - [ ] [《最良心的Python教程》](https://github.com/TwoWater/Python)
 - [ ] [《Python Cookbook》](https://github.com/yidao620c/python3-cookbook)
 - [ ] [《What the f*ck Python》](https://github.com/satwikkansal/wtfpython)
@@ -49,4 +52,4 @@
 
 ## 0x99-Python大牛
 
-- [ ] 
+- 骆昊：https://github.com/jackfrued
