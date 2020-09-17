@@ -45,6 +45,8 @@
 
 ## 0x05-HackWithPy
 
+- https://github.com/Ascotbe/Medusa
+
 ## 0x06-Python扫描
 
 - [ ] [linbing](https://github.com/taomujian/linbing)
