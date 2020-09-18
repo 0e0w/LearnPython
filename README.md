@@ -26,11 +26,7 @@
 - [ ] [《The Algorithms - Python》](https://github.com/TheAlgorithms/Python)
 - [ ] [《Python的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python)
 
-四、Web编程
-
-五、实体书籍
-
-六、杂七杂八
+四、杂七杂八
 
 - [ ] https://github.com/jobbole/awesome-python-cn
 - [ ] https://github.com/vinta/awesome-python
@@ -46,11 +42,8 @@
 ## 0x05-HackWithPy
 
 - https://github.com/Ascotbe/Medusa
-
-## 0x06-Python扫描
-
-- [ ] [linbing](https://github.com/taomujian/linbing)
-- [ ] [Watchdog](https://github.com/CTF-MissFeng/Watchdog)
+- https://github.com/taomujian/linbing
+- https://github.com/CTF-MissFeng/Watchdog
 
 ## 0x99-Python大牛
 
