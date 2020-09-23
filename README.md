@@ -44,6 +44,7 @@
 - https://github.com/Ascotbe/Medusa
 - https://github.com/taomujian/linbing
 - https://github.com/CTF-MissFeng/Watchdog
+- https://github.com/truongnctrieu/CThun
 
 ## 0x99-Python大牛
 
