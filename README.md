@@ -4,12 +4,12 @@
 
 本项目创建于2020年9月11日。最近一次更新时间为9月24日。
 
-- [0x01-Python书籍]()
-- [0x02-Python视频]()
-- [0x03-Python论坛]()
-- [0x04-Python框架]()
-- [0x05-Python项目]()
-- [0x06-Python黑客]()
+- [0x01-Python书籍](https://github.com/0e0w/LearnPython#0x01-python%E4%B9%A6%E7%B1%8D)
+- [0x02-Python视频](https://github.com/0e0w/LearnPython#0x02-python%E8%A7%86%E9%A2%91)
+- [0x03-Python论坛](https://github.com/0e0w/LearnPython#0x03-python%E8%AE%BA%E5%9D%9B)
+- [0x04-Python框架](https://github.com/0e0w/LearnPython#0x04-python%E6%A1%86%E6%9E%B6)
+- [0x05-Python项目](https://github.com/0e0w/LearnPython#0x05-python%E9%A1%B9%E7%9B%AE)
+- [0x06-Python黑客](https://github.com/0e0w/LearnPython#0x06-python%E9%BB%91%E5%AE%A2)
 
 ## 0x01-Python书籍
 
