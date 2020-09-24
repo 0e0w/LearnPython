@@ -1,8 +1,15 @@
 # LearnPython
 
-本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行hack。
+本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
 
-本项目创建于2020年9月13日。最近一次更新时间为9月15日。
+本项目创建于2020年9月11日。最近一次更新时间为9月24日。
+
+- [0x01-Python书籍]()
+- [0x02-Python视频]()
+- [0x03-Python论坛]()
+- [0x04-Python框架]()
+- [0x05-Python项目]()
+- [0x06-Python黑客]()
 
 ## 0x01-Python书籍
 
@@ -18,8 +25,6 @@
 - [ ] [《Python 练习册，每天一个小程序》](https://github.com/Yixiaohan/show-me-the-code)
 
 二、高手进阶
-
-- [ ] 
 
 三、算法学习
 
@@ -39,13 +44,37 @@
 
 ## 0x04-Python框架
 
-## 0x05-HackWithPy
+## 0x05-Python项目
 
-- https://github.com/Ascotbe/Medusa
-- https://github.com/taomujian/linbing
-- https://github.com/CTF-MissFeng/Watchdog
-- https://github.com/truongnctrieu/CThun
+## 0x06-Python黑客
 
-## 0x99-Python大牛
+〇、HackWithPython
 
-- 骆昊：https://github.com/jackfrued
+- [ ] https://github.com/Ascotbe/Medusa
+
+一、目录扫描
+
+二、端口扫描
+
+三、密码爆破
+
+四、域名扫描
+
+五、漏洞扫描
+
+- [ ] https://github.com/Ascotbe/Medusa
+- [ ] https://github.com/taomujian/linbing
+- [ ] https://github.com/CTF-MissFeng/Watchdog
+- [ ] https://github.com/truongnctrieu/CThun
+
+六、隧道代理
+
+七、病毒免杀
+
+- [ ] https://github.com/tanc7/dark-lord-obama
+
+八、其他项目
+
+## 0x07-Python老师
+
+- [ ] 骆昊：https://github.com/jackfrued
