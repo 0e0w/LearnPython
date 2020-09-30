@@ -10,7 +10,7 @@
 - [0x04-Python框架](https://github.com/0e0w/LearnPython#0x04-python%E6%A1%86%E6%9E%B6)
 - [0x05-Python项目](https://github.com/0e0w/LearnPython#0x05-python%E9%A1%B9%E7%9B%AE)
 - [0x06-Python黑客](https://github.com/0e0w/LearnPython#0x06-python%E9%BB%91%E5%AE%A2)
-- [0x07-Python逆向]()
+- [0x07-Python逆向](https://github.com/0e0w/LearnPython#0x07-python%E9%80%86%E5%90%91)
 
 ## 0x01-Python书籍
 
