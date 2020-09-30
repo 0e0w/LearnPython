@@ -25,6 +25,7 @@
 - [ ] [《Python编程时光》](https://github.com/iswbm/PythonCodingTime)
 - [ ] [《Hitchhiker's Guide to Python》](https://github.com/realpython/python-guide)
 - [ ] [《Python 练习册，每天一个小程序》](https://github.com/Yixiaohan/show-me-the-code)
+- [ ] [《Python-zero2one》](https://github.com/eastmountyxz/Python-zero2one)
 
 二、高手进阶
 
