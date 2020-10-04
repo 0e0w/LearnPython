@@ -2,7 +2,7 @@
 
 本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
 
-本项目创建于2020年9月11日。最近一次更新时间为9月30日。
+本项目创建于2020年9月11日。最近一次更新时间为10月04日。
 
 - [0x01-Python书籍](https://github.com/0e0w/LearnPython#0x01-python%E4%B9%A6%E7%B1%8D)
 - [0x02-Python视频](https://github.com/0e0w/LearnPython#0x02-python%E8%A7%86%E9%A2%91)
@@ -22,6 +22,7 @@
 - [ ] [《最良心的Python教程》](https://github.com/TwoWater/Python)
 - [ ] [《Python Cookbook》](https://github.com/yidao620c/python3-cookbook)
 - [ ] [《What the f*ck Python》](https://github.com/satwikkansal/wtfpython)
+- [ ] [《What the f*ck Python-cn》](https://github.com/leisurelicht/wtfpython-cn)
 - [ ] [《Python编程时光》](https://github.com/iswbm/PythonCodingTime)
 - [ ] [《Hitchhiker's Guide to Python》](https://github.com/realpython/python-guide)
 - [ ] [《Python 练习册，每天一个小程序》](https://github.com/Yixiaohan/show-me-the-code)
