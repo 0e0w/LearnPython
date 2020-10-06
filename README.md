@@ -50,6 +50,10 @@
 
 ## 0x04-Python框架
 
+HTTP框架
+
+- [ ] https://github.com/BugScanTeam/hackhttp
+
 ## 0x05-Python项目
 
 一、优秀项目
@@ -77,6 +81,7 @@
 四、域名扫描
 
 - [ ] https://github.com/Ascotbe/Medusa
+- [ ] https://github.com/monkey-wenjun/get_domain_info
 
 五、漏洞扫描
 
