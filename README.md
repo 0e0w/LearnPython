@@ -28,9 +28,9 @@
 - [ ] [《Python 练习册，每天一个小程序》](https://github.com/Yixiaohan/show-me-the-code)
 - [ ] [《Python-zero2one》](https://github.com/eastmountyxz/Python-zero2one)
 - [ ] [《30 days of Python》](https://github.com/Asabeneh/30-Days-Of-Python)
-- [ ] [Google Python 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/)
+- [ ] [《Google Python风格指南》](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/)
 
-二、高手进阶
+二、高级进阶
 
 三、算法学习
 
