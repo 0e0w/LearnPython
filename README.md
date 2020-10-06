@@ -9,7 +9,7 @@
 - [0x03-Python论坛](https://github.com/0e0w/LearnPython#0x03-python%E8%AE%BA%E5%9D%9B)
 - [0x04-Python框架](https://github.com/0e0w/LearnPython#0x04-python%E6%A1%86%E6%9E%B6)
 - [0x05-Python项目](https://github.com/0e0w/LearnPython#0x05-python%E9%A1%B9%E7%9B%AE)
-- [0x06-Python黑客](https://github.com/0e0w/LearnPython#0x06-python%E9%BB%91%E5%AE%A2)
+- [0x06-Python安全](https://github.com/0e0w/LearnPython#0x06-python%E5%AE%89%E5%85%A8)
 - [0x07-Python逆向](https://github.com/0e0w/LearnPython#0x07-python%E9%80%86%E5%90%91)
 
 ## 0x01-Python书籍
@@ -28,6 +28,7 @@
 - [ ] [《Python 练习册，每天一个小程序》](https://github.com/Yixiaohan/show-me-the-code)
 - [ ] [《Python-zero2one》](https://github.com/eastmountyxz/Python-zero2one)
 - [ ] [《30 days of Python》](https://github.com/Asabeneh/30-Days-Of-Python)
+- [ ] [Google Python 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/)
 
 二、高手进阶
 
@@ -55,7 +56,7 @@
 
 - [ ] https://github.com/Ascotbe/Medusa
 
-## 0x06-Python黑客
+## 0x06-Python安全
 
 〇、HackWithPython
 
