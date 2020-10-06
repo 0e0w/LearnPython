@@ -2,7 +2,7 @@
 
 本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
 
-本项目创建于2020年9月11日。最近一次更新时间为10月05日。
+本项目创建于2020年9月11日。最近一次更新时间为10月06日。
 
 - [0x01-Python书籍](https://github.com/0e0w/LearnPython#0x01-python%E4%B9%A6%E7%B1%8D)
 - [0x02-Python视频](https://github.com/0e0w/LearnPython#0x02-python%E8%A7%86%E9%A2%91)
@@ -51,6 +51,10 @@
 
 ## 0x05-Python项目
 
+一、优秀项目
+
+- [ ] https://github.com/Ascotbe/Medusa
+
 ## 0x06-Python黑客
 
 〇、HackWithPython
@@ -59,11 +63,19 @@
 
 一、目录扫描
 
+- [ ] https://github.com/Ascotbe/Medusa
+
 二、端口扫描
+
+- [ ] https://github.com/Ascotbe/Medusa
 
 三、密码爆破
 
+- [ ] https://github.com/Ascotbe/Medusa
+
 四、域名扫描
+
+- [ ] https://github.com/Ascotbe/Medusa
 
 五、漏洞扫描
 
@@ -72,14 +84,19 @@
 - [ ] https://github.com/CTF-MissFeng/Watchdog
 - [ ] https://github.com/truongnctrieu/CThun
 - [ ] https://github.com/PaytmLabs/nerve
+- [x] https://github.com/al0ne/Vxscan
 
 六、隧道代理
+
+- [ ] https://github.com/al0ne/Vxscan
 
 七、病毒免杀
 
 - [ ] https://github.com/tanc7/dark-lord-obama
 
 八、其他项目
+
+- [ ] https://github.com/al0ne/Vxscan
 
 ## 0x07-Python逆向
 
