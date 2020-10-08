@@ -1,8 +1,8 @@
 # LearnPython
 
-本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
+本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行Hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
 
-本项目创建于2020年9月11日。最近一次更新时间为10月06日。
+本项目创建于2020年9月11日。最近一次更新时间为10月08日。
 
 - [0x01-Python书籍](https://github.com/0e0w/LearnPython#0x01-python%E4%B9%A6%E7%B1%8D)
 - [0x02-Python视频](https://github.com/0e0w/LearnPython#0x02-python%E8%A7%86%E9%A2%91)
@@ -66,22 +66,22 @@ HTTP框架
 
 - [ ] https://github.com/Ascotbe/Medusa
 
-一、目录扫描
-
-- [ ] https://github.com/Ascotbe/Medusa
-
-二、端口扫描
-
-- [ ] https://github.com/Ascotbe/Medusa
-
-三、密码爆破
-
-- [ ] https://github.com/Ascotbe/Medusa
-
-四、域名扫描
+一、域名扫描
 
 - [ ] https://github.com/Ascotbe/Medusa
 - [ ] https://github.com/monkey-wenjun/get_domain_info
+
+二、目录扫描
+
+- [ ] https://github.com/Ascotbe/Medusa
+
+三、端口扫描
+
+- [ ] https://github.com/Ascotbe/Medusa
+
+四、密码爆破
+
+- [ ] https://github.com/Ascotbe/Medusa
 
 五、漏洞扫描
 
@@ -91,6 +91,7 @@ HTTP框架
 - [ ] https://github.com/truongnctrieu/CThun
 - [ ] https://github.com/PaytmLabs/nerve
 - [x] https://github.com/al0ne/Vxscan
+- [ ] https://github.com/m4n3dw0lf/pythem
 
 六、隧道代理
 
@@ -105,6 +106,10 @@ HTTP框架
 - [ ] https://github.com/al0ne/Vxscan
 
 ## 0x07-Python逆向
+
+一、通过Python逆向
+
+二、逆向Python程序
 
 ## 0x08-Python老师
 
