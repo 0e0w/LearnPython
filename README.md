@@ -32,6 +32,8 @@
 
 二、高级进阶
 
+- [ ] [《Python 3 源码剖析》](https://github.com/flaggo/python3-source-code-analysis)
+
 三、算法学习
 
 - [ ] [《The Algorithms - Python》](https://github.com/TheAlgorithms/Python)
@@ -102,6 +104,7 @@ HTTP框架
 - [ ] https://github.com/m4n3dw0lf/pythem
 - [ ] https://github.com/sp4rkw/Reaper
 - [ ] https://github.com/knassar702/scant3r
+- [ ] https://github.com/zhzyker/vulmap
 
 七、隧道代理
 
