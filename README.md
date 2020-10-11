@@ -2,7 +2,7 @@
 
 本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行Hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
 
-本项目创建于2020年9月11日。最近一次更新时间为10月10日。
+本项目创建于2020年9月11日。最近一次更新时间为10月11日。
 
 - [0x01-Python书籍](https://github.com/0e0w/LearnPython#0x01-python%E4%B9%A6%E7%B1%8D)
 - [0x02-Python视频](https://github.com/0e0w/LearnPython#0x02-python%E8%A7%86%E9%A2%91)
@@ -16,8 +16,8 @@
 
 一、基础入门
 
-- [ ] [《Python语言基础50课》](https://github.com/jackfrued/Python-Core-50-Courses)
-- [ ] [《Python-100天从新手到大师》](https://github.com/jackfrued/Python-100-Days)
+- [ ] [《Python语言基础50课》](https://github.com/jackfrued/Python-Core-50-Courses)@骆昊
+- [ ] [《Python-100天从新手到大师》](https://github.com/jackfrued/Python-100-Days)@骆昊
 - [ ] [《以撸代码的形式学习Python》](https://github.com/xianhu/LearnPython)
 - [ ] [《最良心的Python教程》](https://github.com/TwoWater/Python)
 - [ ] [《Python Cookbook》](https://github.com/yidao620c/python3-cookbook)
@@ -117,6 +117,9 @@ HTTP框架
 九、代码审计
 
 - [ ] https://github.com/Ascotbe/Medusa
+- [ ] https://github.com/MisakiKata/python_code_audit
+- [ ] https://github.com/shengqi158/pyvulhunter
+- [ ] https://github.com/bit4woo/python_sec
 
 十、其他项目
 
