@@ -62,6 +62,10 @@ HTTP框架
 
 - [ ] https://github.com/Ascotbe/Medusa
 
+二、数据分析
+
+- [ ] https://github.com/hi-weijun/PythonDataScience-Collections
+
 ## 0x06-Python安全
 
 〇、HackWithPython
@@ -92,8 +96,8 @@ HTTP框架
 
 三、端口扫描
 
-- [ ] https://github.com/Ascotbe/Medusa
 - [ ] https://github.com/Ascotbe/ReiAyanami
+- [ ] https://github.com/vesche/scanless
 
 四、密码爆破
 
