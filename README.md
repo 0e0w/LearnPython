@@ -72,15 +72,23 @@ HTTP框架
 
 一、域名扫描
 
-- [ ] https://github.com/Ascotbe/Medusa
+- [ ] https://github.com/topics/subdomain-scanner?l=python
 - [ ] https://github.com/monkey-wenjun/get_domain_info
 - [ ] https://github.com/BitTheByte/Monitorizer
+- [ ] https://github.com/darkoperator/dnsrecon
 - [ ] https://github.com/timwhitez/Frog-Submon
 - [ ] https://github.com/timwhitez/Sub-Filter
+- [ ] https://github.com/guelfoweb/knock
+- [ ] https://github.com/TheRook/subbrute
+- [ ] https://github.com/aboul3la/Sublist3r
+- [ ] https://github.com/Screetsec/Sudomy
 
 二、目录扫描
 
-- [ ] https://github.com/Ascotbe/Medusa
+- [ ] https://github.com/maurosoria/dirsearch
+- [ ] https://github.com/aedoo/WebServiceScanner
+- [ ] https://github.com/aedoo/ACMSDiscovery
+- [ ] https://github.com/dr0op/bufferfly
 
 三、端口扫描
 
@@ -90,6 +98,7 @@ HTTP框架
 四、密码爆破
 
 - [ ] https://github.com/Ascotbe/Medusa
+- [ ] https://github.com/aedoo/Allscanner
 
 五、Web安全
 
@@ -97,6 +106,7 @@ HTTP框架
 
 六、漏洞扫描
 
+- [ ] https://github.com/hannoch/scaner
 - [ ] https://github.com/Ascotbe/Medusa
 - [ ] https://github.com/taomujian/linbing
 - [ ] https://github.com/CTF-MissFeng/Watchdog
@@ -108,6 +118,8 @@ HTTP框架
 - [ ] https://github.com/knassar702/scant3r
 - [ ] https://github.com/zhzyker/vulmap
 - [ ] https://github.com/Z4nzu/hackingtool
+- [ ] https://github.com/Lucifer1993/TPscan
+- [ ] https://github.com/Lucifer1993/AngelSword
 
 七、隧道代理
 
