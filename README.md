@@ -41,8 +41,9 @@
 
 四、杂七杂八
 
-- [ ] https://github.com/jobbole/awesome-python-cn
-- [ ] https://github.com/vinta/awesome-python
+- [ ] [Python语言资料集合](https://github.com/HaoZhang95/Python24)
+- [ ] [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+- [ ] [awesome-python](https://github.com/vinta/awesome-python)
 
 ## 0x02-Python视频
 
