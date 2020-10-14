@@ -53,7 +53,7 @@
 
 ## 0x04-Python框架
 
-HTTP框架
+一、HTTP框架
 
 - [ ] https://github.com/BugScanTeam/hackhttp
 
@@ -130,6 +130,7 @@ HTTP框架
 
 七、隧道代理
 
+- [ ] https://github.com/L-codes/Neo-reGeorg
 - [ ] https://github.com/al0ne/Vxscan
 
 八、病毒免杀
@@ -155,4 +156,5 @@ HTTP框架
 
 ## 0x08-Python老师
 
-- [ ] 骆昊：https://github.com/jackfrued
+- [x] 廖雪峰https://www.liaoxuefeng.com
+- [x] 骆昊：https://github.com/jackfrued
