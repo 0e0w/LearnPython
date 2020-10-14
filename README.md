@@ -2,7 +2,7 @@
 
 本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行Hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
 
-本项目创建于2020年9月11日。最近一次更新时间为10月13日。
+本项目创建于2020年9月11日。最近一次更新时间为10月14日。
 
 - [0x01-Python书籍](https://github.com/0e0w/LearnPython#0x01-python%E4%B9%A6%E7%B1%8D)
 - [0x02-Python视频](https://github.com/0e0w/LearnPython#0x02-python%E8%A7%86%E9%A2%91)
@@ -89,12 +89,10 @@ HTTP框架
 - [ ] https://github.com/Screetsec/Sudomy
 - [ ] https://github.com/chengyizhou147/InfoScan
 
-二、目录扫描
+二、密码爆破
 
-- [ ] https://github.com/maurosoria/dirsearch
-- [ ] https://github.com/aedoo/WebServiceScanner
-- [ ] https://github.com/aedoo/ACMSDiscovery
-- [ ] https://github.com/dr0op/bufferfly
+- [ ] https://github.com/Ascotbe/Medusa
+- [ ] https://github.com/aedoo/Allscanner
 
 三、端口扫描
 
@@ -102,10 +100,12 @@ HTTP框架
 - [ ] https://github.com/vesche/scanless
 - [ ] https://github.com/grayddq/PublicMonitors
 
-四、密码爆破
+四、目录扫描
 
-- [ ] https://github.com/Ascotbe/Medusa
-- [ ] https://github.com/aedoo/Allscanner
+- [ ] https://github.com/maurosoria/dirsearch
+- [ ] https://github.com/aedoo/WebServiceScanner
+- [ ] https://github.com/aedoo/ACMSDiscovery
+- [ ] https://github.com/dr0op/bufferfly
 
 五、Web安全
 
