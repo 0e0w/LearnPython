@@ -56,6 +56,7 @@
 一、HTTP框架
 
 - [ ] https://github.com/BugScanTeam/hackhttp
+- [ ] https://github.com/psf/requests
 
 ## 0x05-Python项目
 
@@ -99,6 +100,7 @@
 - [ ] https://github.com/Ascotbe/ReiAyanami
 - [ ] https://github.com/vesche/scanless
 - [ ] https://github.com/grayddq/PublicMonitors
+- [ ] https://github.com/iiilin/ASimplePortScanner
 
 四、目录扫描
 
@@ -127,11 +129,14 @@
 - [ ] https://github.com/Z4nzu/hackingtool
 - [ ] https://github.com/Lucifer1993/TPscan
 - [ ] https://github.com/Lucifer1993/AngelSword
+- [ ] https://github.com/zhzyker/exphub
+- [ ] https://github.com/phantom0301/PTscan
 
 七、隧道代理
 
 - [ ] https://github.com/L-codes/Neo-reGeorg
 - [ ] https://github.com/al0ne/Vxscan
+- [ ] https://github.com/nccgroup/ABPTTS
 
 八、病毒免杀
 
@@ -143,6 +148,7 @@
 - [ ] https://github.com/MisakiKata/python_code_audit
 - [ ] https://github.com/shengqi158/pyvulhunter
 - [ ] https://github.com/bit4woo/python_sec
+- [ ] https://github.com/zsdlove/Hades
 
 十、其他项目
 
