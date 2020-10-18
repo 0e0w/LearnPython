@@ -117,6 +117,7 @@
 六、漏洞扫描
 
 - [ ] https://github.com/hannoch/scaner
+- [ ] https://github.com/ixiniansec/pwnserver
 - [ ] https://github.com/Ascotbe/Medusa
 - [ ] https://github.com/taomujian/linbing
 - [ ] https://github.com/CTF-MissFeng/Watchdog
@@ -143,6 +144,7 @@
 - [ ] https://github.com/al0ne/Vxscan
 - [ ] https://github.com/nccgroup/ABPTTS
 - [ ] https://github.com/jhao104/proxy_pool
+- [ ] https://github.com/FunnyWolf/pystinger
 
 八、病毒免杀
 
