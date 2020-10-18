@@ -89,6 +89,7 @@
 - [ ] https://github.com/aboul3la/Sublist3r
 - [ ] https://github.com/Screetsec/Sudomy
 - [ ] https://github.com/chengyizhou147/InfoScan
+- [ ] https://github.com/nsonaniya2010/SubDomainizer
 
 二、密码爆破
 
