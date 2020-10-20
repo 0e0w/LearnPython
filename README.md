@@ -163,6 +163,7 @@
 - [ ] https://github.com/antonioCoco/SharPyShell
 - [ ] https://github.com/FeeiCN/GSIL
 - [ ] https://github.com/Rvn0xsy/Cooolis-ms
+- [ ] https://github.com/hisxo/gitGraber
 
 ## 0x07-Python逆向
 
