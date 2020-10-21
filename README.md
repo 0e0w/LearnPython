@@ -2,7 +2,7 @@
 
 本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行Hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
 
-本项目创建于2020年9月11日。最近一次更新时间为10月20日。
+本项目创建于2020年9月11日。最近一次更新时间为10月21日。
 
 - [0x01-Python书籍](https://github.com/0e0w/LearnPython#0x01-python%E4%B9%A6%E7%B1%8D)
 - [0x02-Python视频](https://github.com/0e0w/LearnPython#0x02-python%E8%A7%86%E9%A2%91)
@@ -53,10 +53,108 @@
 
 ## 0x04-Python框架
 
-一、HTTP框架
+- [ ] https://github.com/vinta/awesome-python
 
-- [ ] https://github.com/BugScanTeam/hackhttp
+一、安全框架
+
+- [ ] https://github.com
+
+二、HTTP框架
+
 - [ ] https://github.com/psf/requests
+- [ ] https://github.com/BugScanTeam/hackhttp
+
+三、DNS框架
+
+- [ ] https://github.com
+
+四、数据库框架
+
+- [ ] https://github.com
+
+五、Web框架
+
+- [ ] https://github.com/topics/web?l=python
+- [x] https://github.com/pallets/flask
+
+六、爬虫框架
+
+- [ ] https://github.com
+
+七、JSON解析
+
+- [ ] https://github.com
+
+八、中间件框架
+
+- [ ] https://github.com
+
+九、日志框架
+
+- [ ] https://github.com
+
+十、错误处理
+
+- [ ] https://github.com
+
+十一、消息队列
+
+- [ ] https://github.com
+
+十二、Service Mesh
+
+- [ ] https://github.com
+
+十三、RPC
+
+- [ ] https://github.com
+
+
+十四、协程池
+
+- [ ] https://github.com
+
+十五、视觉图像处理
+
+- [ ] https://github.com
+
+十六、网络框架
+
+- [ ] https://github.com
+
+
+十七、测试框架
+
+- [ ] https://github.com
+
+
+十八、邮箱框架
+
+- [ ] https://github.com
+
+十九、图形化
+
+- [ ] https://github.com
+
+二十、RSS框架
+
+- [ ] https://github.com
+
+二十一、电子表格
+
+- [ ] https://github.com
+
+二十二、打印调试
+
+- [ ] https://github.com
+
+二十三、时间日期
+
+- [ ] https://github.com
+
+二十三、其他框架
+
+- [ ] https://github.com
 
 ## 0x05-Python项目
 
