@@ -2,7 +2,7 @@
 
 本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行Hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
 
-本项目创建于2020年9月11日。最近一次更新时间为10月22日。
+本项目创建于2020年9月11日。最近一次更新时间为10月23日。
 
 - [0x01-Python书籍](https://github.com/0e0w/LearnPython#0x01-python%E4%B9%A6%E7%B1%8D)
 - [0x02-Python视频](https://github.com/0e0w/LearnPython#0x02-python%E8%A7%86%E9%A2%91)
@@ -237,6 +237,7 @@
 - [ ] https://github.com/lijiejie/struts2_045_scan
 - [ ] https://github.com/BitTheByte/Eagle
 - [ ] https://github.com/dyboy2017/TScan
+- [ ] https://github.com/timwhitez/Frog-Auth
 - [ ] https://github.com/LangziFun/LangNetworkTopologys
 
 七、代理隧道
