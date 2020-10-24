@@ -271,6 +271,9 @@
 - [ ] https://github.com/Rvn0xsy/Cooolis-ms
 - [ ] https://github.com/hisxo/gitGraber
 - [ ] https://github.com/Lucifer1993/ALB
+- [ ] https://github.com/wgpsec/Perception
+- [ ] https://github.com/malwaredllc/byob
+- [ ] https://github.com/threatexpress/domainhunter
 
 ## 0x07-Python逆向
 
