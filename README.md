@@ -176,6 +176,7 @@
 - [ ] https://github.com/topics/xss?l=python
 - [ ] https://github.com/topics/xss-attacks?l=python
 - [ ] https://github.com/topics/xss-detection?l=python
+- [ ] https://github.com/taielab/awesome-hacking-lists#python
 
 一、域名扫描
 
@@ -189,6 +190,7 @@
 - [ ] https://github.com/TheRook/subbrute
 - [ ] https://github.com/aboul3la/Sublist3r
 - [ ] https://github.com/Screetsec/Sudomy
+- [ ] https://github.com/guelfoweb/knock
 - [ ] https://github.com/infosec-au/altdns
 - [ ] https://github.com/chengyizhou147/InfoScan
 - [ ] https://github.com/nsonaniya2010/SubDomainizer
