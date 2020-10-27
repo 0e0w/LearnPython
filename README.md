@@ -6,11 +6,11 @@
 
 本项目创建于2020年9月11日。最近一次更新时间为10月27日。
 
-- [0x01-Python资源]()
-- [0x02-Python项目]()
-- [0x03-Python框架]()
-- [0x04-Python安全]()
-- [0x05-Python逆向]()
+- [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
+- [0x02-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
+- [0x03-Python框架](https://github.com/0e0w/LearnPython#0x03-python%E6%A1%86%E6%9E%B6)
+- [0x04-Python安全](https://github.com/0e0w/LearnPython#0x04-python%E5%AE%89%E5%85%A8)
+- [0x05-Python逆向](https://github.com/0e0w/LearnPython#0x05-python%E9%80%86%E5%90%91)
 
 ## 0x01-Python资源
 
@@ -278,6 +278,7 @@
 - [ ] https://github.com/Lucifer1993/ALB
 - [ ] https://github.com/wgpsec/Perception
 - [ ] https://github.com/malwaredllc/byob
+- [ ] https://github.com/epinna/tplmap
 - [ ] https://github.com/threatexpress/domainhunter
 
 ## 0x05-Python逆向
