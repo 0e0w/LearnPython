@@ -6,15 +6,13 @@
 
 本项目创建于2020年9月11日。最近一次更新时间为10月27日。
 
-- [0x01-Python书籍](https://github.com/0e0w/LearnPython#0x01-python%E4%B9%A6%E7%B1%8D)
-- [0x02-Python视频](https://github.com/0e0w/LearnPython#0x02-python%E8%A7%86%E9%A2%91)
-- [0x03-Python论坛](https://github.com/0e0w/LearnPython#0x03-python%E8%AE%BA%E5%9D%9B)
-- [0x04-Python框架](https://github.com/0e0w/LearnPython#0x04-python%E6%A1%86%E6%9E%B6)
-- [0x05-Python项目](https://github.com/0e0w/LearnPython#0x05-python%E9%A1%B9%E7%9B%AE)
-- [0x06-Python安全](https://github.com/0e0w/LearnPython#0x06-python%E5%AE%89%E5%85%A8)
-- [0x07-Python逆向](https://github.com/0e0w/LearnPython#0x07-python%E9%80%86%E5%90%91)
+- [0x01-Python资源]()
+- [0x02-Python项目]()
+- [0x03-Python框架]()
+- [0x04-Python安全]()
+- [0x05-Python逆向]()
 
-## 0x01-Python书籍
+## 0x01-Python资源
 
 一、基础入门
 
@@ -43,19 +41,30 @@
 - [ ] [《The Algorithms - Python》](https://github.com/TheAlgorithms/Python)
 - [ ] [《Python的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python)
 
-四、杂七杂八
+四、学习视频
+
+- [ ] [Python 算法与数据结构视频教程](https://github.com/PegasusWang/python_data_structures_and_algorithms)
+
+五、杂七杂八
 
 - [ ] [Python语言资料集合](https://github.com/HaoZhang95/Python24)
 - [ ] [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 - [ ] [awesome-python](https://github.com/vinta/awesome-python)
 
-## 0x02-Python视频
+六、Python论坛
 
-- [ ] [Python 算法与数据结构视频教程](https://github.com/PegasusWang/python_data_structures_and_algorithms)
+## 0x02-Python项目
 
-## 0x03-Python论坛
+一、优秀项目
 
-## 0x04-Python框架
+- [ ] https://github.com/Ascotbe/Medusa
+- [ ] https://github.com/tp4a/teleport
+
+二、数据分析
+
+- [ ] https://github.com/hi-weijun/PythonDataScience-Collections
+
+## 0x03-Python框架
 
 - [ ] https://github.com/vinta/awesome-python
 
@@ -160,17 +169,7 @@
 
 - [ ] https://github.com
 
-## 0x05-Python项目
-
-一、优秀项目
-
-- [ ] https://github.com/Ascotbe/Medusa
-
-二、数据分析
-
-- [ ] https://github.com/hi-weijun/PythonDataScience-Collections
-
-## 0x06-Python安全
+## 0x04-Python安全
 
 〇、HackWithPython
 
@@ -279,7 +278,7 @@
 - [ ] https://github.com/malwaredllc/byob
 - [ ] https://github.com/threatexpress/domainhunter
 
-## 0x07-Python逆向
+## 0x05-Python逆向
 
 一、通过Python逆向
 
@@ -287,7 +286,11 @@
 
 二、逆向Python程序
 
-## 0x08-Python老师
+三、逆向病毒软件
+
+- [ ] https://github.com/danieluhricek/LiSa
+
+## 0x06-Python老师
 
 - [x] 廖雪峰https://www.liaoxuefeng.com
 - [x] 骆昊：https://github.com/jackfrued
