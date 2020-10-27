@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。
 
-本项目创建于2020年9月11日。最近一次更新时间为10月25日。
+本项目创建于2020年9月11日。最近一次更新时间为10月27日。
 
 - [0x01-Python书籍](https://github.com/0e0w/LearnPython#0x01-python%E4%B9%A6%E7%B1%8D)
 - [0x02-Python视频](https://github.com/0e0w/LearnPython#0x02-python%E8%A7%86%E9%A2%91)
@@ -116,7 +116,7 @@
 
 十四、协程池
 
-- [ ] https://github.com
+- [ ] https://github.com/dbader/schedule
 
 十五、视觉图像处理
 
