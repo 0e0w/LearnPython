@@ -213,6 +213,7 @@
 - [ ] https://github.com/aedoo/WebServiceScanner
 - [ ] https://github.com/aedoo/ACMSDiscovery
 - [ ] https://github.com/dr0op/bufferfly
+- [ ] https://github.com/TideSec/TideFinger
 
 五、Web安全
 
@@ -283,6 +284,7 @@
 - [ ] https://github.com/malwaredllc/byob
 - [ ] https://github.com/epinna/tplmap
 - [ ] https://github.com/bit4woo/teemo
+- [ ] https://github.com/kangvcar/InfoSpider
 - [ ] https://github.com/threatexpress/domainhunter
 
 ## 0x05-Python逆向
