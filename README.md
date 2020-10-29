@@ -248,6 +248,7 @@
 - [ ] https://github.com/BitTheByte/Eagle
 - [ ] https://github.com/dyboy2017/TScan
 - [ ] https://github.com/timwhitez/Frog-Auth
+- [ ] https://github.com/jiangsir404/POC-S
 - [ ] https://github.com/w-digital-scanner/w13scan
 - [ ] https://github.com/andresriancho/w3af
 - [ ] https://github.com/wx-chevalier/chaos-scanner
