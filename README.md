@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。
 
-本项目创建于2020年9月11日。最近一次更新时间为10月28日。
+本项目创建于2020年9月11日。最近一次更新时间为10月29日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
@@ -217,6 +217,7 @@
 五、Web安全
 
 - [ ] https://github.com/knassar702/lorsrf
+- [ ] https://github.com/c0ny1/upload-fuzz-dic-builder
 
 六、漏洞扫描
 
@@ -233,7 +234,7 @@
 - [ ] https://github.com/m4n3dw0lf/pythem
 - [ ] https://github.com/sp4rkw/Reaper
 - [ ] https://github.com/knassar702/scant3r
-- [ ] https://github.com/zhzyker/vulmap
+- [x] https://github.com/zhzyker/vulmap
 - [ ] https://github.com/Z4nzu/hackingtool
 - [ ] https://github.com/Lucifer1993/TPscan
 - [ ] https://github.com/Lucifer1993/AngelSword
@@ -248,6 +249,7 @@
 - [ ] https://github.com/timwhitez/Frog-Auth
 - [ ] https://github.com/w-digital-scanner/w13scan
 - [ ] https://github.com/andresriancho/w3af
+- [ ] https://github.com/wx-chevalier/chaos-scanner
 - [ ] https://github.com/Binye234/What_Cms_Auto_Poc
 - [ ] https://github.com/LangziFun/LangNetworkTopologys
 
