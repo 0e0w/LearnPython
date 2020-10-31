@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。
 
-本项目创建于2020年9月11日。最近一次更新时间为10月30日。
+本项目创建于2020年9月11日。最近一次更新时间为10月31日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
@@ -237,6 +237,7 @@
 - [ ] https://github.com/sp4rkw/Reaper
 - [ ] https://github.com/knassar702/scant3r
 - [x] https://github.com/zhzyker/vulmap
+- [ ] https://github.com/pikpikcu/nuubi
 - [ ] https://github.com/Z4nzu/hackingtool
 - [ ] https://github.com/Lucifer1993/TPscan
 - [ ] https://github.com/Lucifer1993/AngelSword
@@ -287,6 +288,7 @@
 - [ ] https://github.com/epinna/tplmap
 - [ ] https://github.com/bit4woo/teemo
 - [ ] https://github.com/kangvcar/InfoSpider
+- [ ] https://github.com/imWildCat/scylla
 - [ ] https://github.com/threatexpress/domainhunter
 
 ## 0x05-Python逆向
