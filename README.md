@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。
 
-本项目创建于2020年9月11日。最近一次更新时间为10月31日。
+本项目创建于2020年9月11日。最近一次更新时间为11月01日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
@@ -206,6 +206,7 @@
 - [ ] https://github.com/vesche/scanless
 - [ ] https://github.com/grayddq/PublicMonitors
 - [ ] https://github.com/iiilin/ASimplePortScanner
+- [ ] https://github.com/957204459/httpscan
 
 四、目录扫描
 
@@ -250,6 +251,7 @@
 - [ ] https://github.com/BitTheByte/Eagle
 - [ ] https://github.com/dyboy2017/TScan
 - [ ] https://github.com/timwhitez/Frog-Auth
+- [ ] https://github.com/rabbitmask/WeblogicScan
 - [ ] https://github.com/jiangsir404/POC-S
 - [ ] https://github.com/w-digital-scanner/w13scan
 - [ ] https://github.com/andresriancho/w3af
