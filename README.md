@@ -208,13 +208,15 @@
 - [ ] https://github.com/iiilin/ASimplePortScanner
 - [ ] https://github.com/957204459/httpscan
 
-四、目录扫描
+四、路径扫描
 
 - [ ] https://github.com/maurosoria/dirsearch
 - [ ] https://github.com/aedoo/WebServiceScanner
 - [ ] https://github.com/aedoo/ACMSDiscovery
 - [ ] https://github.com/dr0op/bufferfly
+- [ ] https://github.com/maurosoria/dirsearch
 - [ ] https://github.com/TideSec/TideFinger
+- [ ] https://github.com/xmendez/wfuzz
 
 五、Web安全
 
