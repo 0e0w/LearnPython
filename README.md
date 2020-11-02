@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。
 
-本项目创建于2020年9月11日。最近一次更新时间为11月01日。
+本项目创建于2020年9月11日。最近一次更新时间为11月02日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
@@ -41,28 +41,36 @@
 - [ ] [《The Algorithms - Python》](https://github.com/TheAlgorithms/Python)
 - [ ] [《Python的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python)
 
-四、学习视频
+四、机器学习
+
+- [ ] https://github.com/eriklindernoren/ML-From-Scratch
+
+五、学习视频
 
 - [ ] [Python 算法与数据结构视频教程](https://github.com/PegasusWang/python_data_structures_and_algorithms)
 
-五、杂七杂八
+六、杂七杂八
 
 - [ ] [Python语言资料集合](https://github.com/HaoZhang95/Python24)
 - [ ] [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 - [ ] [awesome-python](https://github.com/vinta/awesome-python)
 
-六、Python论坛
+七、Python论坛
 
 ## 0x02-Python项目
 
-一、优秀项目
+一、爬虫项目
 
-- [ ] https://github.com/Ascotbe/Medusa
-- [ ] https://github.com/tp4a/teleport
+- [ ] https://github.com/xingag/spider_python
 
 二、数据分析
 
 - [ ] https://github.com/hi-weijun/PythonDataScience-Collections
+
+三、优秀项目
+
+- [ ] https://github.com/Ascotbe/Medusa
+- [ ] https://github.com/tp4a/teleport
 
 ## 0x03-Python框架
 
@@ -257,6 +265,7 @@
 - [ ] https://github.com/jiangsir404/POC-S
 - [ ] https://github.com/w-digital-scanner/w13scan
 - [ ] https://github.com/andresriancho/w3af
+- [ ] https://github.com/NetSPI/NetblockTool
 - [ ] https://github.com/wx-chevalier/chaos-scanner
 - [ ] https://github.com/Binye234/What_Cms_Auto_Poc
 - [ ] https://github.com/LangziFun/LangNetworkTopologys
@@ -293,7 +302,9 @@
 - [ ] https://github.com/bit4woo/teemo
 - [ ] https://github.com/kangvcar/InfoSpider
 - [ ] https://github.com/imWildCat/scylla
+- [ ] https://github.com/its-a-feature/Mythic
 - [ ] https://github.com/threatexpress/domainhunter
+- [ ] https://github.com/devanshbatham/ParamSpider
 
 ## 0x05-Python逆向
 
