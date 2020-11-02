@@ -226,6 +226,7 @@
 - [ ] https://github.com/maurosoria/dirsearch
 - [ ] https://github.com/TideSec/TideFinger
 - [ ] https://github.com/xmendez/wfuzz
+- [ ] https://github.com/wgpsec/urlscan
 
 五、Web安全
 
@@ -256,6 +257,7 @@
 - [ ] https://github.com/zhzyker/exphub
 - [ ] https://github.com/he1m4n6a/btScan
 - [ ] https://github.com/WyAtu/Perun
+- [ ] https://github.com/mi1k7ea/M7-03
 - [ ] https://github.com/phantom0301/PTscan
 - [ ] https://github.com/lijiejie/BBScan
 - [ ] https://github.com/lijiejie/struts2_045_scan
