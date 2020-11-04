@@ -199,6 +199,7 @@
 - [ ] https://github.com/aboul3la/Sublist3r
 - [ ] https://github.com/Screetsec/Sudomy
 - [ ] https://github.com/guelfoweb/knock
+- [ ] https://github.com/shmilylty/OneForAll
 - [ ] https://github.com/infosec-au/altdns
 - [ ] https://github.com/chengyizhou147/InfoScan
 - [ ] https://github.com/nsonaniya2010/SubDomainizer
@@ -272,6 +273,7 @@
 - [ ] https://github.com/andresriancho/w3af
 - [ ] https://github.com/NetSPI/NetblockTool
 - [ ] https://github.com/wx-chevalier/chaos-scanner
+- [ ] https://github.com/0xn0ne/weblogicScanner
 - [ ] https://github.com/Binye234/What_Cms_Auto_Poc
 - [ ] https://github.com/swisskyrepo/PayloadsAllTheThings
 - [ ] https://github.com/LangziFun/LangNetworkTopologys
@@ -287,6 +289,7 @@
 八、病毒免杀
 
 - [ ] https://github.com/tanc7/dark-lord-obama
+- [ ] https://github.com/oddcod3/Phantom-Evasion
 
 九、代码审计
 
@@ -309,6 +312,8 @@
 - [ ] https://github.com/kangvcar/InfoSpider
 - [ ] https://github.com/imWildCat/scylla
 - [ ] https://github.com/its-a-feature/Mythic
+- [ ] https://github.com/malwaredllc/byob
+- [ ] https://github.com/byt3bl33d3r/CrackMapExec
 - [ ] https://github.com/threatexpress/domainhunter
 - [ ] https://github.com/devanshbatham/ParamSpider
 
