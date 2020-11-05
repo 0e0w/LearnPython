@@ -250,6 +250,7 @@
 - [ ] https://github.com/wgpsec/urlscan
 - [ ] https://github.com/m4n3dw0lf/pythem
 - [ ] https://github.com/amcai/myscan
+- [ ] https://github.com/se55i0n/Cwebscanner
 - [ ] https://github.com/sp4rkw/Reaper
 - [ ] https://github.com/knassar702/scant3r
 - [x] https://github.com/zhzyker/vulmap
@@ -317,6 +318,7 @@
 - [ ] https://github.com/byt3bl33d3r/CrackMapExec
 - [ ] https://github.com/threatexpress/domainhunter
 - [ ] https://github.com/devanshbatham/ParamSpider
+- [ ] https://github.com/Ares-X/AWD-Predator-Framework
 
 ## 0x05-Python逆向
 
