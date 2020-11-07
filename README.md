@@ -84,6 +84,7 @@
 二、HTTP框架
 
 - [ ] https://github.com/psf/requests
+- [ ] https://github.com/aio-libs/aiohttp
 - [ ] https://github.com/BugScanTeam/hackhttp
 
 三、DNS框架
@@ -237,6 +238,7 @@
 
 六、漏洞扫描
 
+- [ ] https://github.com/grayddq/ScanCVE
 - [ ] https://github.com/hannoch/scaner
 - [ ] https://github.com/ixiniansec/pwnserver
 - [ ] https://github.com/Ascotbe/Medusa
@@ -320,6 +322,7 @@
 - [ ] https://github.com/byt3bl33d3r/CrackMapExec
 - [ ] https://github.com/threatexpress/domainhunter
 - [ ] https://github.com/devanshbatham/ParamSpider
+- [ ] https://github.com/trustedsec/social-engineer-toolkit
 - [ ] https://github.com/Ares-X/AWD-Predator-Framework
 
 ## 0x05-Python逆向
