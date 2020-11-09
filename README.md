@@ -325,6 +325,7 @@
 - [ ] https://github.com/imWildCat/scylla
 - [ ] https://github.com/its-a-feature/Mythic
 - [ ] https://github.com/malwaredllc/byob
+- [ ] https://github.com/FSecureLABS/N1QLMap
 - [ ] https://github.com/byt3bl33d3r/CrackMapExec
 - [ ] https://github.com/threatexpress/domainhunter
 - [ ] https://github.com/devanshbatham/ParamSpider
