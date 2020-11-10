@@ -71,7 +71,6 @@
 
 三、优秀项目
 
-- [ ] https://github.com/Ascotbe/Medusa
 - [ ] https://github.com/tp4a/teleport
 
 ## 0x03-Python框架
@@ -209,7 +208,6 @@
 
 二、密码爆破
 
-- [ ] https://github.com/Ascotbe/Medusa
 - [ ] https://github.com/aedoo/Allscanner
 
 三、端口扫描
@@ -244,6 +242,7 @@
 - [ ] https://github.com/ixiniansec/pwnserver
 - [ ] https://github.com/Ascotbe/Medusa
 - [ ] https://github.com/taomujian/linbing
+- [ ] https://github.com/ascr0b/PCWT
 - [ ] https://github.com/CTF-MissFeng/Watchdog
 - [ ] https://github.com/truongnctrieu/CThun
 - [ ] https://github.com/PaytmLabs/nerve
