@@ -311,8 +311,8 @@
 
 十一、其他项目
 
-- [ ] https://github.com/antonioCoco/SharPyShell
 - [ ] https://github.com/Ch1ngg/JCE
+- [ ] https://github.com/s0md3v/Arjun
 - [ ] https://github.com/FeeiCN/GSIL
 - [ ] https://github.com/Rvn0xsy/Cooolis-ms
 - [ ] https://github.com/hisxo/gitGraber
@@ -325,6 +325,7 @@
 - [ ] https://github.com/imWildCat/scylla
 - [ ] https://github.com/its-a-feature/Mythic
 - [ ] https://github.com/malwaredllc/byob
+- [ ] https://github.com/antonioCoco/SharPyShell
 - [ ] https://github.com/FSecureLABS/N1QLMap
 - [ ] https://github.com/byt3bl33d3r/CrackMapExec
 - [ ] https://github.com/threatexpress/domainhunter
