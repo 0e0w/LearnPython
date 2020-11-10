@@ -114,7 +114,7 @@
 
 九、日志框架
 
-- [ ] https://github.com
+- [ ] https://github.com/logpai/logparser
 
 十、错误处理
 
@@ -340,9 +340,10 @@
 
 二、逆向Python程序
 
-三、逆向病毒软件
+三、Python恶意软件
 
 - [ ] https://github.com/danieluhricek/LiSa
+- [ ] https://github.com/ytisf/theZoo
 
 ## 0x06-Python老师
 
