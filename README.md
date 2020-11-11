@@ -269,6 +269,7 @@
 - [ ] https://github.com/mi1k7ea/M7-03
 - [ ] https://github.com/phantom0301/PTscan
 - [ ] https://github.com/lijiejie/BBScan
+- [ ] https://github.com/Lucifer1993/SatanSword
 - [ ] https://github.com/lijiejie/struts2_045_scan
 - [ ] https://github.com/BitTheByte/Eagle
 - [ ] https://github.com/dyboy2017/TScan
