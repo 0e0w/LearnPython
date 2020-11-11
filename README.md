@@ -271,6 +271,7 @@
 - [ ] https://github.com/lijiejie/BBScan
 - [ ] https://github.com/Lucifer1993/SatanSword
 - [ ] https://github.com/lijiejie/struts2_045_scan
+- [ ] https://github.com/Lucifer1993/struts-scan
 - [ ] https://github.com/BitTheByte/Eagle
 - [ ] https://github.com/dyboy2017/TScan
 - [ ] https://github.com/timwhitez/Frog-Auth
