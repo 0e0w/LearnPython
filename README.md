@@ -282,6 +282,7 @@
 - [ ] https://github.com/0xn0ne/weblogicScanner
 - [ ] https://github.com/jangelesg/py3webfuzz
 - [ ] https://github.com/RoliSoft/ReconScan
+- [ ] https://github.com/0lh/SiteScan
 - [ ] https://github.com/rabbitmask/AssetsHunter
 - [ ] https://github.com/Binye234/What_Cms_Auto_Poc
 - [ ] https://github.com/swisskyrepo/PayloadsAllTheThings
@@ -297,6 +298,7 @@
 - [ ] https://github.com/FunnyWolf/pystinger
 - [ ] https://github.com/sshuttle/sshuttle
 - [ ] https://github.com/3v4Si0N/HTTP-revshell
+- [ ] https://github.com/ppbibo/C2-of-aliyun-OSS
 
 八、病毒免杀
 
