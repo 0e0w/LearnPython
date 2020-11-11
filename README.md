@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。
 
-本项目创建于2020年9月11日。最近一次更新时间为11月10日。
+本项目创建于2020年9月11日。最近一次更新时间为11月11日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
@@ -280,6 +280,8 @@
 - [ ] https://github.com/NetSPI/NetblockTool
 - [ ] https://github.com/wx-chevalier/chaos-scanner
 - [ ] https://github.com/0xn0ne/weblogicScanner
+- [ ] https://github.com/jangelesg/py3webfuzz
+- [ ] https://github.com/RoliSoft/ReconScan
 - [ ] https://github.com/rabbitmask/AssetsHunter
 - [ ] https://github.com/Binye234/What_Cms_Auto_Poc
 - [ ] https://github.com/swisskyrepo/PayloadsAllTheThings
@@ -294,6 +296,7 @@
 - [ ] https://github.com/jhao104/proxy_pool
 - [ ] https://github.com/FunnyWolf/pystinger
 - [ ] https://github.com/sshuttle/sshuttle
+- [ ] https://github.com/3v4Si0N/HTTP-revshell
 
 八、病毒免杀
 
@@ -328,6 +331,7 @@
 - [ ] https://github.com/imWildCat/scylla
 - [ ] https://github.com/its-a-feature/Mythic
 - [ ] https://github.com/malwaredllc/byob
+- [ ] https://github.com/darryllane/Bluto
 - [ ] https://github.com/antonioCoco/SharPyShell
 - [ ] https://github.com/FSecureLABS/N1QLMap
 - [ ] https://github.com/byt3bl33d3r/CrackMapExec
