@@ -233,6 +233,7 @@
 五、Web安全
 
 - [ ] https://github.com/knassar702/lorsrf
+- [ ] https://github.com/j3ssie/Osmedeus
 - [ ] https://github.com/c0ny1/upload-fuzz-dic-builder
 
 六、漏洞扫描
@@ -257,6 +258,7 @@
 - [ ] https://github.com/sp4rkw/Reaper
 - [ ] https://github.com/knassar702/scant3r
 - [x] https://github.com/zhzyker/vulmap
+- [ ] https://github.com/hegusung/netscan
 - [ ] https://github.com/pikpikcu/nuubi
 - [ ] https://github.com/Z4nzu/hackingtool
 - [ ] https://github.com/Lucifer1993/TPscan
@@ -351,6 +353,7 @@
 一、通过Python逆向
 
 - [ ] https://github.com/nsacyber/BAM
+- [ ] https://github.com/fireeye/capa
 
 二、逆向Python程序
 
