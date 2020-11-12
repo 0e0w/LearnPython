@@ -213,6 +213,7 @@
 二、密码爆破
 
 - [ ] https://github.com/aedoo/Allscanner
+- [ ] https://github.com/qianniaoge/F-Scrack
 
 三、端口扫描
 
@@ -242,6 +243,7 @@
 
 六、漏洞扫描
 
+- [ ] https://github.com/teamssix/pigat
 - [ ] https://github.com/grayddq/ScanCVE
 - [ ] https://github.com/hannoch/scaner
 - [ ] https://github.com/ixiniansec/pwnserver
@@ -258,6 +260,8 @@
 - [ ] https://github.com/wgpsec/urlscan
 - [ ] https://github.com/m4n3dw0lf/pythem
 - [ ] https://github.com/amcai/myscan
+- [ ] https://github.com/HatBoy/Struts2-Scan
+- [ ] https://github.com/adedayo/tcpscan
 - [ ] https://github.com/se55i0n/Cwebscanner
 - [ ] https://github.com/sp4rkw/Reaper
 - [ ] https://github.com/knassar702/scant3r
