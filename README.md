@@ -69,7 +69,11 @@
 
 - [ ] https://github.com/hi-weijun/PythonDataScience-Collections
 
-三、优秀项目
+三、量化投资
+
+- [ ] https://github.com/Rgveda/996Quant
+
+四、优秀项目
 
 - [ ] https://github.com/tp4a/teleport
 
