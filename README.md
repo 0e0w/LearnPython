@@ -310,6 +310,8 @@
 - [ ] https://github.com/jhao104/proxy_pool
 - [ ] https://github.com/FunnyWolf/pystinger
 - [ ] https://github.com/sshuttle/sshuttle
+- [ ] https://github.com/sensepost/reGeorg
+- [ ] https://github.com/returntocorp/semgrep
 - [ ] https://github.com/3v4Si0N/HTTP-revshell
 - [ ] https://github.com/ppbibo/C2-of-aliyun-OSS
 
