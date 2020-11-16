@@ -229,6 +229,7 @@
 四、路径扫描
 
 - [ ] https://github.com/maurosoria/dirsearch
+- [ ] https://github.com/H4ckForJob/dirmap
 - [ ] https://github.com/aedoo/WebServiceScanner
 - [ ] https://github.com/aedoo/ACMSDiscovery
 - [ ] https://github.com/dr0op/bufferfly
