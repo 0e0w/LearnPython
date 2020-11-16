@@ -306,6 +306,7 @@
 - [ ] https://github.com/zutianbiao/baize
 - [ ] https://github.com/s0md3v/Striker
 - [ ] https://github.com/thewhiteh4t/FinalRecon
+- [ ] https://github.com/timwhitez/Frog-Fp
 
 七、代理隧道
 
@@ -363,6 +364,7 @@
 - [ ] https://github.com/trustedsec/social-engineer-toolkit
 - [ ] https://github.com/Ares-X/AWD-Predator-Framework
 - [ ] https://github.com/FSecureLABS/needle
+- [ ] https://github.com/guimaizi/get_domain
 
 ## 0x05-Python逆向
 
