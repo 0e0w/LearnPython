@@ -311,6 +311,7 @@
 - [ ] https://github.com/netxfly/passive_scan
 - [ ] https://github.com/rtcatc/Packer-Fuzzer
 - [ ] https://github.com/Cl0udG0d/SZhe_Scan
+- [ ] https://github.com/JKme/xscan
 
 七、代理隧道
 
