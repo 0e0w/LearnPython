@@ -262,7 +262,6 @@
 - [ ] https://github.com/guardicore/monkey
 - [ ] https://github.com/wgpsec/IGScan
 - [ ] https://github.com/orleven/Tentacle
-- [ ] https://github.com/wgpsec/urlscan
 - [ ] https://github.com/m4n3dw0lf/pythem
 - [ ] https://github.com/amcai/myscan
 - [ ] https://github.com/HatBoy/Struts2-Scan
@@ -318,6 +317,7 @@
 - [ ] https://github.com/yhy0/InforScan
 - [ ] https://github.com/TideSec/FuzzScanner
 - [ ] https://github.com/Ascotbe/ReiAyanami
+- [ ] https://github.com/erevus-cn/pocscan
 
 七、代理隧道
 
@@ -377,6 +377,7 @@
 - [ ] https://github.com/FSecureLABS/needle
 - [ ] https://github.com/guimaizi/get_domain
 - [ ] https://github.com/obscuritylabs/PeFixup
+- [ ] https://github.com/jhao104/proxy_pool
 
 ## 0x05-Python逆向
 
