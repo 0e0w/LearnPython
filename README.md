@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。
 
-本项目创建于2020年9月11日。最近一次更新时间为11月22日。
+本项目创建于2020年9月11日。最近一次更新时间为11月23日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
@@ -73,6 +73,7 @@
 三、量化投资
 
 - [ ] https://github.com/Rgveda/996Quant
+- [ ] https://github.com/Rockyzsu/stock
 
 四、优秀项目
 
@@ -226,6 +227,7 @@
 - [ ] https://github.com/iiilin/ASimplePortScanner
 - [ ] https://github.com/957204459/httpscan
 - [ ] https://github.com/dtuncle/VManger
+- [ ] https://github.com/vesche/scanless
 
 四、路径扫描
 
@@ -238,6 +240,7 @@
 - [ ] https://github.com/TideSec/TideFinger
 - [ ] https://github.com/xmendez/wfuzz
 - [ ] https://github.com/wgpsec/urlscan
+- [ ] https://github.com/clowndmn/DirCrack
 
 五、Web安全
 
@@ -378,6 +381,8 @@
 - [ ] https://github.com/guimaizi/get_domain
 - [ ] https://github.com/obscuritylabs/PeFixup
 - [ ] https://github.com/jhao104/proxy_pool
+- [ ] https://github.com/0xHJK/dumpall
+- [ ] https://github.com/super-l/superl-url
 
 ## 0x05-Python逆向
 
