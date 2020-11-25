@@ -384,6 +384,7 @@
 - [ ] https://github.com/jhao104/proxy_pool
 - [ ] https://github.com/0xHJK/dumpall
 - [ ] https://github.com/super-l/superl-url
+- [ ] https://github.com/LandGrey/ClassHound
 
 ## 0x05-Python逆向
 
