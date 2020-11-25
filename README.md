@@ -32,6 +32,7 @@
 - [ ] [《Google Python风格指南》](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/)
 - [ ] [《Python100天学习计划》](https://github.com/JustDoPython/python-100-day)
 - [ ] [《Python深度学习》](https://github.com/ChileWang0228/Deep-Learning-With-Python)
+- [ ] [《Python工匠》](https://github.com/piglei/one-python-craftsman)
 - [ ] [《365天深入理解Python》](https://github.com/0e0w/365Python)
 
 二、高级进阶
@@ -385,6 +386,7 @@
 - [ ] https://github.com/0xHJK/dumpall
 - [ ] https://github.com/super-l/superl-url
 - [ ] https://github.com/LandGrey/ClassHound
+- [ ] https://github.com/s045pd/DarkNet_ChineseTrading
 
 ## 0x05-Python逆向
 
