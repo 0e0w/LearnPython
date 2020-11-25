@@ -236,7 +236,6 @@
 - [ ] https://github.com/aedoo/WebServiceScanner
 - [ ] https://github.com/aedoo/ACMSDiscovery
 - [ ] https://github.com/dr0op/bufferfly
-- [ ] https://github.com/maurosoria/dirsearch
 - [ ] https://github.com/TideSec/TideFinger
 - [ ] https://github.com/xmendez/wfuzz
 - [ ] https://github.com/wgpsec/urlscan
