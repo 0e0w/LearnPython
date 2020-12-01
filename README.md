@@ -2,7 +2,7 @@
 
 本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行Hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
 
-关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。
+关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
 
 本项目创建于2020年9月11日。最近一次更新时间为11月30日。
 
