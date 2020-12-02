@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
 
-本项目创建于2020年9月11日。最近一次更新时间为11月30日。
+本项目创建于2020年9月11日。最近一次更新时间为2020年12月2日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
@@ -326,6 +326,8 @@
 - [ ] https://github.com/se55i0n/DBScanner
 - [ ] https://github.com/cdong1012/Crab-Runner
 - [ ] https://github.com/medasz/liuxin
+- [ ] https://github.com/RedTeamWing/Vulcan
+- [ ] https://github.com/j3ssie/Osmedeus
 
 七、代理隧道
 
