@@ -250,6 +250,7 @@
 
 - [ ] https://github.com/knassar702/lorsrf
 - [ ] https://github.com/j3ssie/Osmedeus
+- [ ] https://github.com/sqlmapproject/sqlmap
 - [ ] https://github.com/c0ny1/upload-fuzz-dic-builder
 
 六、漏洞扫描
