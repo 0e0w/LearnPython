@@ -402,6 +402,7 @@
 - [ ] https://github.com/its-a-feature/Mythic
 - [ ] https://github.com/m4ll0k/CastleBravo
 - [ ] https://github.com/Mebus/cupp
+- [ ] https://github.com/kelvinBen/AppInfoScanner
 
 ## 0x05-Python逆向
 
