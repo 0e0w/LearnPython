@@ -34,6 +34,7 @@
 - [ ] [《Python深度学习》](https://github.com/ChileWang0228/Deep-Learning-With-Python)
 - [ ] [《Python工匠》](https://github.com/piglei/one-python-craftsman)
 - [ ] [《365天深入理解Python》](https://github.com/0e0w/365Python)
+- [ ] [《Python3标准库》](https://github.com/bat67/The-Python-Standard-Library-by-Example)
 
 二、高级进阶
 
@@ -412,6 +413,7 @@
 
 - [ ] https://github.com/nsacyber/BAM
 - [ ] https://github.com/fireeye/capa
+- [ ] https://github.com/Boris-code/jmpy
 
 二、逆向Python程序
 
