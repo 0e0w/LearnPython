@@ -275,7 +275,7 @@
 - [x] https://github.com/al0ne/Vxscan
 - [ ] https://github.com/guardicore/monkey
 - [ ] https://github.com/wgpsec/IGScan
-- [ ] https://github.com/orleven/Tentacle
+- [x] https://github.com/orleven/Tentacle
 - [ ] https://github.com/m4n3dw0lf/pythem
 - [ ] https://github.com/amcai/myscan
 - [ ] https://github.com/HatBoy/Struts2-Scan
