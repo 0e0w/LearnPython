@@ -250,6 +250,7 @@
 - [ ] https://github.com/stanislav-web/OpenDoor
 - [ ] https://github.com/pmiaowu/PmWebDirScan
 - [ ] https://github.com/teamssix/url_batch_discovery
+- [ ] https://github.com/j3ers3/Cscan
 
 五、Web安全
 
@@ -426,6 +427,7 @@
 - [ ] https://github.com/pan3a/Redis-Getshell
 - [ ] https://github.com/opencve/opencve
 - [ ] https://github.com/ArchiveBox/ArchiveBox
+- [ ] https://github.com/jweny/servicesbrute
 
 ## 0x05-Python逆向
 
