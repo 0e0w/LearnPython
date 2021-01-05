@@ -216,7 +216,6 @@
 - [ ] https://github.com/guelfoweb/knock
 - [ ] https://github.com/shmilylty/OneForAll
 - [ ] https://github.com/infosec-au/altdns
-- [ ] https://github.com/guelfoweb/knock
 - [ ] https://github.com/chengyizhou147/InfoScan
 - [ ] https://github.com/nsonaniya2010/SubDomainizer
 - [ ] https://github.com/LandGrey/domainNamePredictor
