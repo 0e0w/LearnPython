@@ -79,6 +79,7 @@
 - [ ] https://github.com/Rgveda/996Quant
 - [ ] https://github.com/Rockyzsu/stock
 - [ ] https://github.com/pythonstock/stock
+- [ ] https://github.com/bbfamily/abu
 
 四、优秀项目
 
