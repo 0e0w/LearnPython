@@ -351,11 +351,11 @@
 - [ ] https://github.com/w9w/JSA
 - [ ] https://github.com/possib1e/OneDragon
 - [ ] https://github.com/yogeshojha/rengine
+- [ ] https://github.com/s7ckTeam/Glass
 
 七、代理隧道
 
 - [ ] https://github.com/L-codes/Neo-reGeorg
-- [ ] https://github.com/al0ne/Vxscan
 - [ ] https://github.com/nccgroup/ABPTTS
 - [ ] https://github.com/jhao104/proxy_pool
 - [ ] https://github.com/FunnyWolf/pystinger
