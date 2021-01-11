@@ -435,6 +435,7 @@
 - [ ] https://github.com/opencve/opencve
 - [ ] https://github.com/ArchiveBox/ArchiveBox
 - [ ] https://github.com/jweny/servicesbrute
+- [ ] https://github.com/YaokaiYang-assaultmaster/py3PortScanner
 
 ## 0x05-Python逆向
 
