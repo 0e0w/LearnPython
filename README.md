@@ -360,6 +360,7 @@
 - [ ] https://github.com/codingo/Reconnoitre
 - [ ] https://github.com/s0md3v/Silver
 - [ ] https://github.com/f4cknet/anjianrvms
+- [ ] https://github.com/r3change/TPLogScan
 
 七、代理隧道
 
@@ -444,6 +445,7 @@
 - [ ] https://github.com/YaokaiYang-assaultmaster/py3PortScanner
 - [ ] https://github.com/wattlebird/Bangumi_Spider
 - [ ] https://github.com/Ekultek/Zeus-Scanner
+- [ ] https://github.com/dirkjanm/ROADtools
 
 ## 0x05-Python逆向
 
