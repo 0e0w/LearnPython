@@ -236,6 +236,7 @@
 - [ ] https://github.com/957204459/httpscan
 - [ ] https://github.com/dtuncle/VManger
 - [ ] https://github.com/vesche/scanless
+- [ ] https://github.com/OpenFireTechnologies/PortScanner
 
 四、路径扫描
 
@@ -439,6 +440,7 @@
 - [ ] https://github.com/ArchiveBox/ArchiveBox
 - [ ] https://github.com/jweny/servicesbrute
 - [ ] https://github.com/YaokaiYang-assaultmaster/py3PortScanner
+- [ ] https://github.com/wattlebird/Bangumi_Spider
 
 ## 0x05-Python逆向
 
