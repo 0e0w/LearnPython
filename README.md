@@ -262,6 +262,7 @@
 - [ ] https://github.com/sqlmapproject/sqlmap
 - [ ] https://github.com/c0ny1/upload-fuzz-dic-builder
 - [ ] https://github.com/zhanghangorg/sqlinj-ant
+- [ ] https://github.com/cn-kali-team/Gui-Acunetix-Api
 
 六、漏洞扫描
 
@@ -441,6 +442,7 @@
 - [ ] https://github.com/jweny/servicesbrute
 - [ ] https://github.com/YaokaiYang-assaultmaster/py3PortScanner
 - [ ] https://github.com/wattlebird/Bangumi_Spider
+- [ ] https://github.com/Ekultek/Zeus-Scanner
 
 ## 0x05-Python逆向
 
