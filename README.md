@@ -35,6 +35,7 @@
 - [ ] [《Python工匠》](https://github.com/piglei/one-python-craftsman)
 - [ ] [《365天深入理解Python》](https://github.com/0e0w/365Python)
 - [ ] [《Python3标准库》](https://github.com/bat67/The-Python-Standard-Library-by-Example)
+- [ ] [《Research Software Engineering with Python》](https://github.com/merely-useful/py-rse)
 
 二、高级进阶
 
@@ -227,6 +228,7 @@
 - [ ] https://github.com/aedoo/Allscanner
 - [ ] https://github.com/qianniaoge/F-Scrack
 - [ ] https://github.com/j3ers3/Crackpy
+- [ ] https://github.com/noptrix/sshprank
 
 三、端口扫描
 
