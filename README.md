@@ -458,6 +458,7 @@
 - [ ] https://github.com/wattlebird/Bangumi_Spider
 - [ ] https://github.com/Ekultek/Zeus-Scanner
 - [ ] https://github.com/dirkjanm/ROADtools
+- [ ] https://github.com/chriskiehl/Gooey
 
 ## 0x05-Python逆向
 
