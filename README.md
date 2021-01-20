@@ -71,6 +71,7 @@
 一、爬虫项目
 
 - [ ] https://github.com/xingag/spider_python
+- [ ] https://github.com/Ehco1996/Python-crawler
 
 二、数据分析
 
@@ -460,6 +461,7 @@
 - [ ] https://github.com/Ekultek/Zeus-Scanner
 - [ ] https://github.com/dirkjanm/ROADtools
 - [ ] https://github.com/chriskiehl/Gooey
+- [ ] https://github.com/knownsec/LSpider
 
 ## 0x05-Python逆向
 
