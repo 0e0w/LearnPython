@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年1月21日。
+本项目创建于2020年9月11日。最近一次更新时间为2021年1月22日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
@@ -376,6 +376,7 @@
 - [ ] https://github.com/xkx518/CodeTest
 - [ ] https://github.com/SabyasachiRana/WebMap
 - [ ] https://github.com/Ppsoft1991/Multitude-Star
+- [ ] https://github.com/m4ll0k/WPSeku
 - [ ] https://github.com/Fplyth0ner-Combie/Bug-Project-Framework
 
 七、代理隧道
@@ -466,6 +467,7 @@
 - [ ] https://github.com/knownsec/LSpider
 - [ ] https://github.com/epinna/tplmap
 - [ ] https://github.com/mycve/BurpLogin
+- [ ] https://github.com/oxff644/WBread
 
 ## 0x05-Python逆向
 
@@ -477,6 +479,7 @@
 
 二、逆向Python程序
 
+- [ ] https://github.com/Lunpopo/pyobfuscate
 - [ ] https://www.freebuf.com/articles/network/258881.html
 
 三、Python恶意软件
