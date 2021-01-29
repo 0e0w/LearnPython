@@ -380,6 +380,7 @@
 - [ ] https://github.com/m4ll0k/WPSeku
 - [ ] https://github.com/aleenzz/aleenscan
 - [ ] https://github.com/Cl0udG0d/HXnineTails
+- [ ] https://github.com/JE2Se/J2ExpSuite
 - [ ] https://github.com/Fplyth0ner-Combie/Bug-Project-Framework
 
 七、代理隧道
