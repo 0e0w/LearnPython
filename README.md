@@ -400,6 +400,7 @@
 
 八、病毒免杀
 
+- [ ] https://github.com/xct/morbol
 - [ ] https://github.com/yhy0/AVByPass
 - [ ] https://github.com/tanc7/dark-lord-obama
 - [ ] https://github.com/oddcod3/Phantom-Evasion
