@@ -85,6 +85,7 @@
 - [ ] https://github.com/bbfamily/abu
 - [ ] https://github.com/wxylssy/LSSY
 - [ ] https://github.com/zengbin93/czsc
+- [ ] https://github.com/shidenggui/easytrader
 
 四、优秀项目
 
