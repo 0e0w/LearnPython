@@ -385,6 +385,7 @@
 - [ ] https://github.com/JE2Se/J2ExpSuite
 - [ ] https://github.com/0x240x23elu/JSScanner
 - [ ] https://github.com/kafroc/MossbackScanner
+- [ ] https://github.com/zer0yu/ZEROScan
 - [ ] https://github.com/Fplyth0ner-Combie/Bug-Project-Framework
 
 七、代理隧道
