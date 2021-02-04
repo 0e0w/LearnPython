@@ -72,6 +72,7 @@
 
 - [ ] https://github.com/xingag/spider_python
 - [ ] https://github.com/Ehco1996/Python-crawler
+- [ ] https://github.com/dataabc/weiboSpider
 
 二、数据分析
 
@@ -275,6 +276,7 @@
 - [ ] https://github.com/zhanghangorg/sqlinj-ant
 - [ ] https://github.com/cn-kali-team/Gui-Acunetix-Api
 - [ ] https://github.com/JohnTroony/Blisqy
+- [ ] https://github.com/cujanovic/SSRF-Testing
 
 六、漏洞扫描
 
@@ -482,6 +484,7 @@
 - [ ] https://github.com/Srinivas11789/PcapXray
 - [ ] https://github.com/ajinabraham/CMSScan
 - [ ] https://github.com/m4ll0k/takeover
+- [ ] https://github.com/Acmesec/CTFCrackTools
 
 ## 0x05-Python逆向
 
