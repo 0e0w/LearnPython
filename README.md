@@ -496,6 +496,7 @@
 - [ ] https://github.com/m4ll0k/takeover
 - [ ] https://github.com/Acmesec/CTFCrackTools
 - [ ] https://github.com/HACKE-RC/webdork
+- [ ] https://github.com/twisted/twisted
 
 ## 0x05-Python逆向
 
