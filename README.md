@@ -280,6 +280,7 @@
 - [ ] https://github.com/0xInfection/XSRFProbe
 - [ ] https://github.com/cujanovic/SSRF-Testing
 - [ ] https://github.com/rotemreiss/uddup
+- [ ] https://github.com/allyomalley/BurpParamFlagger
 
 六、漏洞扫描
 
