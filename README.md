@@ -399,6 +399,7 @@
 七、内网渗透
 
 - [ ] https://github.com/loseys/BlackMamba
+- [ ] https://github.com/Ar3h/putter
 
 八、代理隧道
 
@@ -512,6 +513,7 @@
 - [ ] https://github.com/secretsquirrel/BDFProxy
 - [ ] https://github.com/WangYihang/Exploit-Framework
 - [ ] https://github.com/Henrique-Miranda/thg-framework
+- [ ] https://github.com/mstxq17/MoreCode
 
 ## 0x05-Python逆向
 
