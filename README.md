@@ -518,6 +518,7 @@
 - [ ] https://github.com/WangYihang/Exploit-Framework
 - [ ] https://github.com/Henrique-Miranda/thg-framework
 - [ ] https://github.com/mstxq17/MoreCode
+- [ ] https://github.com/ctxis/crackerjack
 
 ## 0x05-Python逆向
 
