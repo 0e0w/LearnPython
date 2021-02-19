@@ -520,6 +520,7 @@
 - [ ] https://github.com/Henrique-Miranda/thg-framework
 - [ ] https://github.com/mstxq17/MoreCode
 - [ ] https://github.com/ctxis/crackerjack
+- [ ] https://github.com/s045pd/DarkNet_ChineseTrading
 
 ## 0x05-Python逆向
 
