@@ -424,6 +424,7 @@
 - [ ] https://github.com/xct/morbol
 - [ ] https://github.com/yhy0/AVByPass
 - [ ] https://github.com/tanc7/dark-lord-obama
+- [ ] https://github.com/M-Kings/BypassAv-web
 - [ ] https://github.com/oddcod3/Phantom-Evasion
 - [ ] https://github.com/Ch1ngg/ShellcodeWrapperModify
 
