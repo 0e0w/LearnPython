@@ -524,6 +524,7 @@
 - [ ] https://github.com/mstxq17/MoreCode
 - [ ] https://github.com/ctxis/crackerjack
 - [ ] https://github.com/jonluca/Anubis
+- [ ] https://github.com/WyAtu/Perun
 - [ ] https://github.com/s045pd/DarkNet_ChineseTrading
 
 ## 0x05-Python逆向
