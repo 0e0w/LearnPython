@@ -96,6 +96,7 @@
 - [ ] https://github.com/Ithrael/beian_miit_spider
 - [ ] https://github.com/zbnio/zbn
 - [ ] https://github.com/explosion/spaCy
+- [ ] https://github.com/skavngr/rapidscan
 
 ## 0x03-Python框架
 
@@ -522,6 +523,7 @@
 - [ ] https://github.com/Henrique-Miranda/thg-framework
 - [ ] https://github.com/mstxq17/MoreCode
 - [ ] https://github.com/ctxis/crackerjack
+- [ ] https://github.com/jonluca/Anubis
 - [ ] https://github.com/s045pd/DarkNet_ChineseTrading
 
 ## 0x05-Python逆向
