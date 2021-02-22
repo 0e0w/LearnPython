@@ -413,7 +413,6 @@
 
 - [ ] https://github.com/L-codes/Neo-reGeorg
 - [ ] https://github.com/nccgroup/ABPTTS
-- [ ] https://github.com/jhao104/proxy_pool
 - [ ] https://github.com/FunnyWolf/pystinger
 - [ ] https://github.com/sshuttle/sshuttle
 - [ ] https://github.com/sensepost/reGeorg
