@@ -47,6 +47,7 @@
 - [ ] [《The Algorithms - Python》](https://github.com/TheAlgorithms/Python)
 - [ ] [《Python的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python)
 - [ ] [《数据结构和算法必知必会的50个代码实现》](https://github.com/wangzheng0822/algo)
+- [ ] [《Python36种设计模式》](https://github.com/ydf0509/python36patterns)
 
 四、机器学习
 
@@ -88,6 +89,7 @@
 - [ ] https://github.com/bbfamily/abu
 - [ ] https://github.com/wxylssy/LSSY
 - [ ] https://github.com/zengbin93/czsc
+- [ ] https://github.com/uname-yang/pysnowball
 - [ ] https://github.com/shidenggui/easytrader
 
 四、优秀项目
@@ -525,6 +527,8 @@
 - [ ] https://github.com/jonluca/Anubis
 - [ ] https://github.com/WyAtu/Perun
 - [ ] https://github.com/JE2Se/AssetScan
+- [ ] https://github.com/Patrowl/PatrowlHears
+- [ ] https://github.com/zj1244/beholder_scanner
 - [ ] https://github.com/s045pd/DarkNet_ChineseTrading
 
 ## 0x05-Python逆向
