@@ -4,11 +4,11 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年2月25日。
+本项目创建于2020年9月11日。最近一次更新时间为2021年2月26日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
-- [0x02-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
-- [0x03-Python框架](https://github.com/0e0w/LearnPython#0x03-python%E6%A1%86%E6%9E%B6)
+- [0x02-Python框架](https://github.com/0e0w/LearnPython#0x03-python%E6%A1%86%E6%9E%B6)
+- [0x03-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
 - [0x04-Python安全](https://github.com/0e0w/LearnPython#0x04-python%E5%AE%89%E5%85%A8)
 - [0x05-Python逆向](https://github.com/0e0w/LearnPython#0x05-python%E9%80%86%E5%90%91)
 
@@ -67,40 +67,7 @@
 
 七、Python论坛
 
-## 0x02-Python项目
-
-一、爬虫项目
-
-- [ ] https://github.com/xingag/spider_python
-- [ ] https://github.com/Ehco1996/Python-crawler
-- [ ] https://github.com/dataabc/weiboSpider
-- [ ] https://github.com/Boris-code/feapder
-- [ ] https://github.com/wistbean/learn_python3_spider
-
-二、数据分析
-
-- [ ] https://github.com/hi-weijun/PythonDataScience-Collections
-
-三、量化投资
-
-- [ ] https://github.com/Rgveda/996Quant
-- [ ] https://github.com/Rockyzsu/stock
-- [ ] https://github.com/pythonstock/stock
-- [ ] https://github.com/bbfamily/abu
-- [ ] https://github.com/wxylssy/LSSY
-- [ ] https://github.com/zengbin93/czsc
-- [ ] https://github.com/uname-yang/pysnowball
-- [ ] https://github.com/shidenggui/easytrader
-
-四、优秀项目
-
-- [ ] https://github.com/tp4a/teleport
-- [ ] https://github.com/Ithrael/beian_miit_spider
-- [ ] https://github.com/zbnio/zbn
-- [ ] https://github.com/explosion/spaCy
-- [ ] https://github.com/skavngr/rapidscan
-
-## 0x03-Python框架
+## 0x02-Python框架
 
 - [ ] https://github.com/vinta/awesome-python
 
@@ -205,6 +172,39 @@
 二十三、其他框架
 
 - [ ] https://github.com/takluyver/pynsist
+
+## 0x03-Python项目
+
+一、爬虫项目
+
+- [ ] https://github.com/xingag/spider_python
+- [ ] https://github.com/Ehco1996/Python-crawler
+- [ ] https://github.com/dataabc/weiboSpider
+- [ ] https://github.com/Boris-code/feapder
+- [ ] https://github.com/wistbean/learn_python3_spider
+
+二、数据分析
+
+- [ ] https://github.com/hi-weijun/PythonDataScience-Collections
+
+三、量化投资
+
+- [ ] https://github.com/Rgveda/996Quant
+- [ ] https://github.com/Rockyzsu/stock
+- [ ] https://github.com/pythonstock/stock
+- [ ] https://github.com/bbfamily/abu
+- [ ] https://github.com/wxylssy/LSSY
+- [ ] https://github.com/zengbin93/czsc
+- [ ] https://github.com/uname-yang/pysnowball
+- [ ] https://github.com/shidenggui/easytrader
+
+四、优秀项目
+
+- [ ] https://github.com/tp4a/teleport
+- [ ] https://github.com/Ithrael/beian_miit_spider
+- [ ] https://github.com/zbnio/zbn
+- [ ] https://github.com/explosion/spaCy
+- [ ] https://github.com/skavngr/rapidscan
 
 ## 0x04-Python安全
 
@@ -408,6 +408,7 @@
 - [ ] https://github.com/BitTheByte/Eagle
 - [ ] https://github.com/FrenchCisco/RATel
 - [ ] https://github.com/zongdeiqianxing/Autoscanner
+- [ ] https://github.com/0671/MyCT
 
 七、内网渗透
 
