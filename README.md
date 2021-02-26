@@ -7,8 +7,8 @@
 本项目创建于2020年9月11日。最近一次更新时间为2021年2月26日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
-- [0x02-Python框架](https://github.com/0e0w/LearnPython#0x03-python%E6%A1%86%E6%9E%B6)
-- [0x03-Python项目](https://github.com/0e0w/LearnPython#0x02-python%E9%A1%B9%E7%9B%AE)
+- [0x02-Python框架](https://github.com/0e0w/LearnPython#0x02-python%E6%A1%86%E6%9E%B6)
+- [0x03-Python项目](https://github.com/0e0w/LearnPython#0x03-python%E9%A1%B9%E7%9B%AE)
 - [0x04-Python安全](https://github.com/0e0w/LearnPython#0x04-python%E5%AE%89%E5%85%A8)
 - [0x05-Python逆向](https://github.com/0e0w/LearnPython#0x05-python%E9%80%86%E5%90%91)
 
