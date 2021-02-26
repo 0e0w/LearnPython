@@ -536,6 +536,7 @@
 - [ ] https://github.com/s045pd/DarkNet_ChineseTrading
 - [ ] https://github.com/taojy123/KeymouseGo
 - [ ] https://github.com/chr233/backup_by_mail
+- [ ] https://github.com/riverloopsec/ninjadiff
 
 ## 0x05-Python逆向
 
