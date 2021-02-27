@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年2月26日。
+本项目创建于2020年9月11日。最近一次更新时间为2021年2月27日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python框架](https://github.com/0e0w/LearnPython#0x02-python%E6%A1%86%E6%9E%B6)
@@ -172,6 +172,7 @@
 二十三、其他框架
 
 - [ ] https://github.com/takluyver/pynsist
+- [ ] https://github.com/trailofbits/graphtage
 
 ## 0x03-Python项目
 
@@ -409,6 +410,7 @@
 - [ ] https://github.com/FrenchCisco/RATel
 - [ ] https://github.com/zongdeiqianxing/Autoscanner
 - [ ] https://github.com/0671/MyCT
+- [ ] https://github.com/wodxgod/gDorks
 
 七、内网渗透
 
@@ -537,6 +539,7 @@
 - [ ] https://github.com/taojy123/KeymouseGo
 - [ ] https://github.com/chr233/backup_by_mail
 - [ ] https://github.com/riverloopsec/ninjadiff
+- [ ] https://github.com/zeronetworks/cornershot
 
 ## 0x05-Python逆向
 
