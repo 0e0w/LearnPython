@@ -411,6 +411,7 @@
 - [ ] https://github.com/zongdeiqianxing/Autoscanner
 - [ ] https://github.com/0671/MyCT
 - [ ] https://github.com/wodxgod/gDorks
+- [ ] https://github.com/T-Jinhao/Scanner
 
 七、内网渗透
 
