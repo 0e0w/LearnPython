@@ -413,6 +413,8 @@
 - [ ] https://github.com/wodxgod/gDorks
 - [ ] https://github.com/T-Jinhao/Scanner
 - [ ] https://github.com/fportantier/vulpy
+- [ ] https://github.com/imagemlt/LoggedProxy
+- [ ] https://github.com/xuchaoa/WebScan
 
 七、内网渗透
 
@@ -542,6 +544,7 @@
 - [ ] https://github.com/chr233/backup_by_mail
 - [ ] https://github.com/riverloopsec/ninjadiff
 - [ ] https://github.com/zeronetworks/cornershot
+- [ ] https://github.com/Ciphey/Ciphey
 
 ## 0x05-Python逆向
 
