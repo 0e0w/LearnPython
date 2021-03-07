@@ -554,10 +554,11 @@
 
 一、通过Python逆向
 
+- [ ] https://github.com/hugsy/gef
 - [ ] https://github.com/nsacyber/BAM
 - [ ] https://github.com/fireeye/capa
 - [ ] https://github.com/Boris-code/jmpy
-- [ ] https://github.com/hugsy/gef
+- [ ] https://github.com/Martyx00/CollaRE
 
 二、逆向Python程序
 
