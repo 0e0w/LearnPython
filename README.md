@@ -418,6 +418,7 @@
 - [ ] https://github.com/fportantier/vulpy
 - [ ] https://github.com/imagemlt/LoggedProxy
 - [ ] https://github.com/xuchaoa/WebScan
+- [ ] https://github.com/1oid/PocBatch-M
 
 七、内网渗透
 
@@ -573,6 +574,7 @@
 
 - [ ] https://github.com/danieluhricek/LiSa
 - [ ] https://github.com/ytisf/theZoo
+- [ ] https://github.com/CERT-Polska/mquery
 
 ## 0x06-Python老师
 
