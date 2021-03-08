@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年3月7日。
+本项目创建于2020年9月11日。最近一次更新时间为2021年3月8日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python框架](https://github.com/0e0w/LearnPython#0x02-python%E6%A1%86%E6%9E%B6)
@@ -199,6 +199,7 @@
 - [ ] https://github.com/zengbin93/czsc
 - [ ] https://github.com/uname-yang/pysnowball
 - [ ] https://github.com/shidenggui/easytrader
+- [ ] https://github.com/zhy0313/ea-python
 
 四、优秀项目
 
@@ -207,6 +208,7 @@
 - [ ] https://github.com/zbnio/zbn
 - [ ] https://github.com/explosion/spaCy
 - [ ] https://github.com/skavngr/rapidscan
+- [ ] https://github.com/ethicalhackingplayground/SubNuke
 
 ## 0x04-Python安全
 
@@ -446,11 +448,12 @@
 
 十、代码审计
 
-- [ ] https://github.com/MisakiKata/python_code_audit
-- [ ] https://github.com/shengqi158/pyvulhunter
-- [ ] https://github.com/bit4woo/python_sec
 - [ ] https://github.com/zsdlove/Hades
+- [ ] https://github.com/alpha1e0/kiwi
+- [ ] https://github.com/bit4woo/python_sec
+- [ ] https://github.com/shengqi158/pyvulhunter
 - [ ] https://github.com/TheKingOfDuck/FileMonitor
+- [ ] https://github.com/MisakiKata/python_code_audit
 
 十一、社工钓鱼
 
