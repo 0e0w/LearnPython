@@ -557,6 +557,7 @@
 - [ ] https://github.com/Ciphey/Ciphey
 - [ ] https://github.com/se55i0n/Webfinger
 - [ ] https://github.com/volatilityfoundation/volatility
+- [ ] https://github.com/wgpsec/tig
 
 ## 0x05-Python逆向
 
