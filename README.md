@@ -560,6 +560,7 @@
 - [ ] https://github.com/wgpsec/tig
 - [ ] https://github.com/FallenGaven/SRCINFO
 - [ ] https://github.com/rscloura/Doldrums
+- [ ] https://github.com/atdpa4sw0rd/Search-Tools
 
 ## 0x05-Python逆向
 
