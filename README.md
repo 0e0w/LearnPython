@@ -563,6 +563,7 @@
 - [ ] https://github.com/FallenGaven/SRCINFO
 - [ ] https://github.com/rscloura/Doldrums
 - [ ] https://github.com/atdpa4sw0rd/Search-Tools
+- [ ] https://github.com/DSO-Lab/passets
 
 ## 0x05-Python逆向
 
