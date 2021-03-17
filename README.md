@@ -566,6 +566,7 @@
 - [ ] https://github.com/atdpa4sw0rd/Search-Tools
 - [ ] https://github.com/DSO-Lab/passets
 - [ ] https://github.com/wgpsec/VulnRange
+- [ ] https://github.com/Cryptonian007/Genisys
 
 ## 0x05-Python逆向
 
