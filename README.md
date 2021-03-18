@@ -425,6 +425,7 @@
 - [ ] https://github.com/wgpsec/DBJ
 - [ ] https://github.com/zerokeeper/exploit
 - [ ] https://github.com/1c3z/ARL-NPoC
+- [x] https://github.com/gyoisamurai/GyoiThon
 
 七、内网渗透
 
@@ -570,6 +571,7 @@
 - [ ] https://github.com/Cryptonian007/Genisys
 - [ ] https://github.com/lw1988/PyAwearnessSystem
 - [ ] https://github.com/JohnTroony/Blisqy
+- [ ] https://github.com/0x9f99/Recon
 
 ## 0x05-Python逆向
 
