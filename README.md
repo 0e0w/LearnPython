@@ -575,6 +575,7 @@
 - [ ] https://github.com/L0kiii/FofaScan
 - [ ] https://github.com/crow821/mayfly
 - [ ] https://github.com/sp4zcmd/SimpleRedisScanner
+- [ ] https://github.com/yzddmr6/WebCrack
 
 ## 0x05-Python逆向
 
