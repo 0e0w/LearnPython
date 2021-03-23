@@ -579,6 +579,8 @@
 - [ ] https://github.com/crow821/mayfly
 - [ ] https://github.com/sp4zcmd/SimpleRedisScanner
 - [ ] https://github.com/yzddmr6/WebCrack
+- [ ] https://github.com/jweny/servicesbrute
+- [ ] https://github.com/magicming200/tomcat-weak-password-scanner
 
 ## 0x05-Python逆向
 
