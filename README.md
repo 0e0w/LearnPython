@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年3月24日。
+本项目创建于2020年9月11日。最近一次更新时间为2021年3月25日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python框架](https://github.com/0e0w/LearnPython#0x02-python%E6%A1%86%E6%9E%B6)
@@ -278,6 +278,8 @@
 - [ ] https://github.com/teamssix/url_batch_discovery
 - [ ] https://github.com/j3ers3/Cscan
 - [ ] https://github.com/Nekmo/dirhunt
+- [ ] https://github.com/EASY233/Finger
+- [ ] https://github.com/s7ckTeam/Glass
 
 五、Web安全
 
@@ -386,7 +388,6 @@
 - [ ] https://github.com/w9w/JSA
 - [ ] https://github.com/possib1e/OneDragon
 - [ ] https://github.com/yogeshojha/rengine
-- [ ] https://github.com/s7ckTeam/Glass
 - [ ] https://github.com/zongdeiqianxing/hscan
 - [ ] https://github.com/enemy-submarine/pidrila
 - [ ] https://github.com/codingo/Reconnoitre
