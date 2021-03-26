@@ -456,6 +456,7 @@
 - [ ] https://github.com/tanc7/dark-lord-obama
 - [ ] https://github.com/M-Kings/BypassAv-web
 - [ ] https://github.com/oddcod3/Phantom-Evasion
+- [ ] https://github.com/G1ft3dC0d3/MsfMania
 - [ ] https://github.com/Ch1ngg/ShellcodeWrapperModify
 
 十、代码审计
