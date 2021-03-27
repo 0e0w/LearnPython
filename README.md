@@ -586,6 +586,7 @@
 - [ ] https://github.com/yzddmr6/WebCrack
 - [ ] https://github.com/jweny/servicesbrute
 - [ ] https://github.com/magicming200/tomcat-weak-password-scanner
+- [ ] https://github.com/vysecurity/LinkedInt
 
 ## 0x05-Python逆向
 
