@@ -176,6 +176,7 @@
 - [ ] https://github.com/huggingface/datasets
 - [ ] https://github.com/linode/linode-cli
 - [ ] https://github.com/Pebaz/nimporter
+- [ ] https://github.com/gruns/icecream
 
 ## 0x03-Python项目
 
