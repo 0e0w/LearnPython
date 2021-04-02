@@ -220,14 +220,15 @@
 
 〇、HackWithPython
 
-- [ ] https://github.com/topics/xss?l=python
-- [ ] https://github.com/topics/xss-attacks?l=python
-- [ ] https://github.com/topics/xss-detection?l=python
+- https://github.com/topics/xss?l=python
+- https://github.com/topics/xss-attacks?l=python
+- https://github.com/topics/xss-detection?l=python
 - [ ] https://github.com/taielab/awesome-hacking-lists#python
 
 一、域名扫描
 
-- [ ] https://github.com/topics/subdomain-scanner?l=python
+- https://github.com/topics/subdomain-scanner?l=python
+
 - [ ] https://github.com/monkey-wenjun/get_domain_info
 - [ ] https://github.com/BitTheByte/Monitorizer
 - [ ] https://github.com/darkoperator/dnsrecon
@@ -240,13 +241,14 @@
 - [ ] https://github.com/guelfoweb/knock
 - [ ] https://github.com/shmilylty/OneForAll
 - [ ] https://github.com/infosec-au/altdns
+- [ ] https://github.com/LandGrey/taoman
+- [ ] https://github.com/guelfoweb/knock
+- [ ] https://github.com/skahwah/fronter
 - [ ] https://github.com/chengyizhou147/InfoScan
 - [ ] https://github.com/nsonaniya2010/SubDomainizer
 - [ ] https://github.com/LandGrey/domainNamePredictor
 - [ ] https://github.com/devanshbatham/Passivehunter
-- [ ] https://github.com/LandGrey/taoman
-- [ ] https://github.com/guelfoweb/knock
-- [ ] https://github.com/skahwah/fronter
+- [ ] https://github.com/Jewel591/SubDomainFinder
 
 二、密码爆破
 
@@ -597,6 +599,11 @@
 - [ ] https://github.com/ail-project/ail-framework
 - [ ] https://github.com/ricardojoserf/adfsbrute
 - [ ] https://github.com/MisakiKata/mitescan
+- [ ] https://github.com/njcx/peppa_scanner
+- [ ] https://github.com/njcx/peppa_pc
+- [ ] https://github.com/edx/edx-platform
+- [ ] https://github.com/m4n3dw0lf/pythem
+- [ ] https://github.com/insecurityofthings/jackit
 
 ## 0x05-Python逆向
 
