@@ -596,6 +596,7 @@
 - [ ] https://github.com/vysecurity/LinkedInt
 - [ ] https://github.com/ail-project/ail-framework
 - [ ] https://github.com/ricardojoserf/adfsbrute
+- [ ] https://github.com/MisakiKata/mitescan
 
 ## 0x05-Python逆向
 
