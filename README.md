@@ -446,6 +446,7 @@
 - [ ] https://github.com/loseys/BlackMamba
 - [ ] https://github.com/Ar3h/putter
 - [ ] https://github.com/bats3c/shad0w
+- [ ] https://github.com/AdrMXR/KitHack
 
 八、代理隧道
 
