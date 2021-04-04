@@ -607,6 +607,7 @@
 - [ ] https://github.com/m4n3dw0lf/pythem
 - [ ] https://github.com/insecurityofthings/jackit
 - [ ] https://github.com/wafinfo/fofa_sprider
+- [ ] https://github.com/NESCAU-UFLA/FuzzingTool
 
 ## 0x05-Python逆向
 
