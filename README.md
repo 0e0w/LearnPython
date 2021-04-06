@@ -217,6 +217,7 @@
 - [ ] https://github.com/airob0t/idcardgenerator
 - [ ] https://github.com/theupdateframework/tuf
 - [ ] https://github.com/huashengdun/webssh
+- [ ] https://github.com/RimoChan/steal_piano
 
 ## 0x04-Python安全
 
