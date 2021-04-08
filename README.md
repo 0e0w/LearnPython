@@ -499,7 +499,11 @@
 
 - [ ] https://github.com/honoki/bbrf-client
 
-十五、其他项目
+十五、取证分析
+
+- [ ] https://github.com/visma-prodsec/columbo
+
+十六、其他项目
 
 - [ ] https://github.com/Ch1ngg/JCE
 - [ ] https://github.com/s0md3v/Arjun
@@ -615,6 +619,8 @@
 - [ ] https://github.com/Throokie/MmpScan
 - [ ] https://github.com/RUB-NDS/PRET
 - [ ] https://github.com/quentinhardy/odat
+- [ ] https://github.com/ydf0509/proxypool_framework
+- [ ] https://github.com/soxoj/maigret
 
 ## 0x05-Python逆向
 
