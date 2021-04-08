@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年4月7日。
+本项目创建于2020年9月11日。最近一次更新时间为2021年4月8日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python框架](https://github.com/0e0w/LearnPython#0x02-python%E6%A1%86%E6%9E%B6)
@@ -614,6 +614,7 @@
 - [ ] https://github.com/hanc00l/nemo
 - [ ] https://github.com/Throokie/MmpScan
 - [ ] https://github.com/RUB-NDS/PRET
+- [ ] https://github.com/quentinhardy/odat
 
 ## 0x05-Python逆向
 
