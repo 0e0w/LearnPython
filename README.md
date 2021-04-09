@@ -306,6 +306,7 @@
 - [ ] https://github.com/rotemreiss/uddup
 - [ ] https://github.com/whitel1st/docem
 - [ ] https://github.com/m4ll0k/Atlas
+- [ ] https://github.com/lanjelot/albatar
 - [ ] https://github.com/almandin/fuxploider
 - [ ] https://github.com/allyomalley/BurpParamFlagger
 
