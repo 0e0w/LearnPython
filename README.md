@@ -218,6 +218,7 @@
 - [ ] https://github.com/theupdateframework/tuf
 - [ ] https://github.com/huashengdun/webssh
 - [ ] https://github.com/RimoChan/steal_piano
+- [ ] https://github.com/joaogmauricio/protolidar
 
 ## 0x04-Python安全
 
@@ -624,6 +625,7 @@
 - [ ] https://github.com/soxoj/maigret
 - [ ] https://github.com/yhy0/github-cve-monitor
 - [ ] https://github.com/ByHuaiNian/webscan1.0
+- [ ] https://github.com/7dog7/bottleneckOsmosis
 
 ## 0x05-Python逆向
 
