@@ -626,6 +626,7 @@
 - [ ] https://github.com/yhy0/github-cve-monitor
 - [ ] https://github.com/ByHuaiNian/webscan1.0
 - [ ] https://github.com/7dog7/bottleneckOsmosis
+- [ ] https://github.com/H4ckForJob/kingkong
 
 ## 0x05-Python逆向
 
