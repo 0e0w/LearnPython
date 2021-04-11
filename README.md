@@ -233,7 +233,6 @@
 一、域名扫描
 
 - https://github.com/topics/subdomain-scanner?l=python
-
 - [ ] https://github.com/monkey-wenjun/get_domain_info
 - [ ] https://github.com/BitTheByte/Monitorizer
 - [ ] https://github.com/darkoperator/dnsrecon
@@ -254,6 +253,7 @@
 - [ ] https://github.com/LandGrey/domainNamePredictor
 - [ ] https://github.com/devanshbatham/Passivehunter
 - [ ] https://github.com/Jewel591/SubDomainFinder
+- [ ] https://github.com/TypeError/domained
 
 二、密码爆破
 
@@ -628,6 +628,7 @@
 - [ ] https://github.com/ByHuaiNian/webscan1.0
 - [ ] https://github.com/7dog7/bottleneckOsmosis
 - [ ] https://github.com/H4ckForJob/kingkong
+- [ ] https://github.com/EASY233/Finger
 
 ## 0x05-Python逆向
 
