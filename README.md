@@ -446,6 +446,7 @@
 - [x] https://github.com/gyoisamurai/GyoiThon
 - [ ] https://github.com/qianxiao996/FrameScan-GUI
 - [ ] https://github.com/devanshbatham/ParamSpider
+- [ ] https://github.com/hackerhackrat/R-poc
 
 七、内网渗透
 
