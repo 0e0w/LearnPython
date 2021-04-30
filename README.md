@@ -453,6 +453,7 @@
 - [ ] https://github.com/devanshbatham/ParamSpider
 - [ ] https://github.com/hackerhackrat/R-poc
 - [ ] https://github.com/1c3z/ARL-NPoC
+- [ ] https://github.com/dyboy2017/WTF_Scan
 
 七、内网渗透
 
