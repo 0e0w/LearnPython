@@ -455,6 +455,10 @@
 - [ ] https://github.com/1c3z/ARL-NPoC
 - [ ] https://github.com/dyboy2017/WTF_Scan
 - [ ] https://github.com/ZACSFR99/ZACscan
+- [ ] https://github.com/RedTeamWing/Vulcan
+- [ ] https://github.com/anouarbensaad/vulnx
+- [ ] https://github.com/stark0de/nginxpwner
+- [ ] https://github.com/ultrasecurity/Storm-Breaker
 
 七、内网渗透
 
@@ -651,6 +655,8 @@
 - [ ] https://github.com/m8r0wn/crosslinked
 - [ ] https://github.com/DavidBuchanan314/tweetable-polyglot-png
 - [ ] https://github.com/MisterBianco/BoopSuite
+- [ ] https://github.com/SECFORCE/sparta
+- [ ] https://github.com/wetw0rk/Sickle
 
 ## 0x05-Python逆向
 
