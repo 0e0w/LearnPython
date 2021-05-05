@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年5月4日。
+本项目创建于2020年9月11日。最近一次更新时间为2021年5月5日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python框架](https://github.com/0e0w/LearnPython#0x02-python%E6%A1%86%E6%9E%B6)
@@ -13,6 +13,9 @@
 - [0x05-Python逆向](https://github.com/0e0w/LearnPython#0x05-python%E9%80%86%E5%90%91)
 
 ## 0x01-Python资源
+
+- https://github.com/0e0w/LearnPython
+- https://github.com/vinta/awesome-python
 
 一、基础入门
 
@@ -61,15 +64,12 @@
 
 - [ ] [Python语言资料集合](https://github.com/HaoZhang95/Python24)
 - [ ] [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
-- [ ] [awesome-python](https://github.com/vinta/awesome-python)
 - [ ] [awesome-flask-cn](https://github.com/haiiiiiyun/awesome-flask-cn)
 - [ ] [awesome-django-cn](https://github.com/haiiiiiyun/awesome-django-cn)
 
 七、Python论坛
 
 ## 0x02-Python框架
-
-- [ ] https://github.com/vinta/awesome-python
 
 一、安全框架
 
@@ -467,6 +467,7 @@
 - [ ] https://github.com/bats3c/shad0w
 - [ ] https://github.com/AdrMXR/KitHack
 - [ ] https://github.com/skelsec/pypykatz
+- [ ] https://github.com/gl4ssesbo1/Nebula
 
 八、代理隧道
 
