@@ -222,6 +222,7 @@
 - [ ] https://github.com/RimoChan/steal_piano
 - [ ] https://github.com/joaogmauricio/protolidar
 - [ ] https://github.com/nccgroup/ScoutSuite
+- [ ] https://github.com/pyston/pyston
 
 ## 0x04-Python安全
 
@@ -300,6 +301,7 @@
 - [ ] https://github.com/s7ckTeam/sWebScanner
 - [ ] https://github.com/k0njac/arthinDir
 - [ ] https://github.com/teamssix/Batch-identification-of-website-CMS-fingerprints
+- [ ] https://github.com/EASY233/Finger
 
 五、Web安全
 
