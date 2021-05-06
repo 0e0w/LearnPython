@@ -66,6 +66,7 @@
 - [ ] [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 - [ ] [awesome-flask-cn](https://github.com/haiiiiiyun/awesome-flask-cn)
 - [ ] [awesome-django-cn](https://github.com/haiiiiiyun/awesome-django-cn)
+- [ ] https://www.pypy.org
 
 七、Python论坛
 
@@ -659,6 +660,7 @@
 - [ ] https://github.com/MisterBianco/BoopSuite
 - [ ] https://github.com/SECFORCE/sparta
 - [ ] https://github.com/wetw0rk/Sickle
+- [ ] https://github.com/calebstewart/pwncat
 
 ## 0x05-Python逆向
 
