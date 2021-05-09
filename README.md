@@ -258,6 +258,7 @@
 - [ ] https://github.com/Jewel591/SubDomainFinder
 - [ ] https://github.com/TypeError/domained
 - [ ] https://github.com/qianxiao996/Super-PortScan
+- [ ] https://github.com/BitTheByte/Monitorizer
 
 二、密码爆破
 
@@ -666,6 +667,7 @@
 - [ ] https://github.com/wetw0rk/Sickle
 - [ ] https://github.com/calebstewart/pwncat
 - [ ] https://github.com/decalage2/oletools
+- [ ] https://github.com/KartheekLade/CANalyse
 
 ## 0x05-Python逆向
 
