@@ -178,6 +178,7 @@
 - [ ] https://github.com/linode/linode-cli
 - [ ] https://github.com/Pebaz/nimporter
 - [ ] https://github.com/gruns/icecream
+- [ ] https://github.com/hustcc/PyG2Plot
 
 ## 0x03-Python项目
 
@@ -223,6 +224,7 @@
 - [ ] https://github.com/joaogmauricio/protolidar
 - [ ] https://github.com/nccgroup/ScoutSuite
 - [ ] https://github.com/pyston/pyston
+- [ ] https://github.com/brant-ruan/metarget
 
 ## 0x04-Python安全
 
@@ -669,6 +671,7 @@
 - [ ] https://github.com/decalage2/oletools
 - [ ] https://github.com/KartheekLade/CANalyse
 - [ ] https://github.com/Skiller9090/Lucifer
+- [ ] https://github.com/izar/pytm
 
 ## 0x05-Python逆向
 
