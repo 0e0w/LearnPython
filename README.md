@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年5月11日。
+本项目创建于2020年9月11日。最近一次更新时间为2021年5月12日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python框架](https://github.com/0e0w/LearnPython#0x02-python%E6%A1%86%E6%9E%B6)
@@ -466,6 +466,7 @@
 - [ ] https://github.com/anouarbensaad/vulnx
 - [ ] https://github.com/stark0de/nginxpwner
 - [ ] https://github.com/ultrasecurity/Storm-Breaker
+- [ ] https://github.com/bgbing/bgbingscan
 
 七、内网渗透
 
@@ -694,6 +695,7 @@
 - [ ] https://github.com/danieluhricek/LiSa
 - [ ] https://github.com/ytisf/theZoo
 - [ ] https://github.com/CERT-Polska/mquery
+- [ ] https://github.com/termuxhackers-id/SARA
 
 四、其他资源
 
