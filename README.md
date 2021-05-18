@@ -7,10 +7,12 @@
 本项目创建于2020年9月11日。最近一次更新时间为2021年5月18日。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
-- [0x02-Python框架](https://github.com/0e0w/LearnPython#0x02-python%E6%A1%86%E6%9E%B6)
-- [0x03-Python项目](https://github.com/0e0w/LearnPython#0x03-python%E9%A1%B9%E7%9B%AE)
-- [0x04-Python安全](https://github.com/0e0w/LearnPython#0x04-python%E5%AE%89%E5%85%A8)
-- [0x05-Python逆向](https://github.com/0e0w/LearnPython#0x05-python%E9%80%86%E5%90%91)
+- [0x02-Python标准]()
+- [0x03-Python框架]()
+- [0x04-Python项目]()
+- [0x05-Python安全]()
+- [0x06-Python逆向]()
+- [0x07-Python老师]()
 
 ## 0x01-Python资源
 
@@ -70,7 +72,9 @@
 
 七、Python论坛
 
-## 0x02-Python框架
+## 0x02-Python标准
+
+## 0x03-Python框架
 
 一、安全框架
 
@@ -180,7 +184,7 @@
 - [ ] https://github.com/gruns/icecream
 - [ ] https://github.com/hustcc/PyG2Plot
 
-## 0x03-Python项目
+## 0x04-Python项目
 
 一、爬虫项目
 
@@ -228,8 +232,9 @@
 - [ ] https://github.com/google/fuzzbench
 - [ ] https://github.com/SECFORCE/Tunna
 - [ ] https://github.com/Genetic-Malware/Ebowla
+- [ ] https://github.com/flipkart-incubator/Astra
 
-## 0x04-Python安全
+## 0x05-Python安全
 
 〇、HackWithPython
 
@@ -678,7 +683,7 @@
 - [ ] https://github.com/Skiller9090/Lucifer
 - [ ] https://github.com/izar/pytm
 
-## 0x05-Python逆向
+## 0x06-Python逆向
 
 一、通过Python逆向
 
@@ -705,7 +710,7 @@
 
 - [ ] https://github.com/Martyx00/CollaRE
 
-## 0x06-Python老师
+## 0x07-Python老师
 
 - 廖雪峰https://www.liaoxuefeng.com
 - 骆昊：https://github.com/jackfrued
