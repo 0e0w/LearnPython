@@ -1,18 +1,18 @@
 # LearnPython
 
-本项目记录自己学习Python过程中遇到的一些优秀项目。包括一些Python语言的基础教程和一些优秀的Python项目代码。尽可能的使用Python，尽可能的使用Python进行Hack。作者：[0e0w](https://github.com/0e0w/LearnPython)
+本项目是记录自己在学习Python的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Python，尽可能的深入理解Python。人生苦短，我用Python！作者：[0e0w](https://github.com/0e0w/LearnPython)
 
-关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。人生苦短，我用Python！
+关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年5月18日。
+本项目创建于2020年9月11日。最近一次更新时间为2021年5月18日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
-- [0x02-Python标准]()
-- [0x03-Python框架]()
-- [0x04-Python项目]()
-- [0x05-Python安全]()
-- [0x06-Python逆向]()
-- [0x07-Python老师]()
+- [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
+- [0x03-Python框架](https://github.com/0e0w/LearnPython#0x03-python%E6%A1%86%E6%9E%B6)
+- [0x04-Python项目](https://github.com/0e0w/LearnPython#0x04-python%E9%A1%B9%E7%9B%AE)
+- [0x05-Python安全](https://github.com/0e0w/LearnPython#0x05-python%E5%AE%89%E5%85%A8)
+- [0x06-Python逆向](https://github.com/0e0w/LearnPython#0x06-python%E9%80%86%E5%90%91)
+- [0x07-Python老师](https://github.com/0e0w/LearnPython#0x07-python%E8%80%81%E5%B8%88)
 
 ## 0x01-Python资源
 
@@ -77,105 +77,78 @@
 ## 0x03-Python框架
 
 一、安全框架
-
 - [ ] https://github.com
 
 二、HTTP框架
-
 - [ ] https://github.com/psf/requests
 - [ ] https://github.com/aio-libs/aiohttp
 - [ ] https://github.com/BugScanTeam/hackhttp
 
 三、DNS框架
-
 - [ ] https://github.com
 
 四、数据库框架
-
 - [ ] https://github.com
 
 五、Web框架
-
 - [ ] https://github.com/topics/web?l=python
 - [x] https://github.com/pallets/flask
 
 六、爬虫框架
-
 - [ ] https://github.com
 
 七、JSON解析
-
 - [ ] https://github.com
 
 八、中间件框架
-
 - [ ] https://github.com
 
 九、日志框架
-
 - [ ] https://github.com/logpai/logparser
 
 十、错误处理
-
 - [ ] https://github.com
 
 十一、消息队列
-
 - [ ] https://github.com
 
 十二、Service Mesh
-
 - [ ] https://github.com
 
 十三、RPC
-
 - [ ] https://github.com
 
-
 十四、协程池
-
 - [ ] https://github.com/dbader/schedule
 
 十五、视觉图像处理
-
 - [ ] https://github.com
 
 十六、网络框架
-
 - [ ] https://github.com
-
 
 十七、测试框架
-
 - [ ] https://github.com
 
-
 十八、邮箱框架
-
 - [ ] https://github.com
 
 十九、图形化
-
 - [ ] https://github.com
 
 二十、RSS框架
-
 - [ ] https://github.com
 
 二十一、电子表格
-
 - [ ] https://github.com
 
 二十二、打印调试
-
 - [ ] https://github.com
 
 二十三、时间日期
-
 - [ ] https://github.com
 
 二十三、其他框架
-
 - [ ] https://github.com/takluyver/pynsist
 - [ ] https://github.com/trailofbits/graphtage
 - [ ] https://github.com/huggingface/datasets
@@ -187,7 +160,6 @@
 ## 0x04-Python项目
 
 一、爬虫项目
-
 - [ ] https://github.com/jiallv/Spiders
 - [ ] https://github.com/Boris-code/feapder
 - [ ] https://github.com/dataabc/weiboSpider
@@ -196,11 +168,9 @@
 - [ ] https://github.com/wistbean/learn_python3_spider
 
 二、数据分析
-
 - [ ] https://github.com/hi-weijun/PythonDataScience-Collections
 
 三、量化投资
-
 - [ ] https://github.com/Rgveda/996Quant
 - [ ] https://github.com/Rockyzsu/stock
 - [ ] https://github.com/pythonstock/stock
@@ -212,7 +182,6 @@
 - [ ] https://github.com/zhy0313/ea-python
 
 四、优秀项目
-
 - [ ] https://github.com/tp4a/teleport
 - [ ] https://github.com/Ithrael/beian_miit_spider
 - [ ] https://github.com/zbnio/zbn
@@ -232,19 +201,16 @@
 - [ ] https://github.com/google/fuzzbench
 - [ ] https://github.com/SECFORCE/Tunna
 - [ ] https://github.com/Genetic-Malware/Ebowla
-- [ ] https://github.com/flipkart-incubator/Astra
 
 ## 0x05-Python安全
 
 〇、HackWithPython
-
 - https://github.com/topics/xss?l=python
 - https://github.com/topics/xss-attacks?l=python
 - https://github.com/topics/xss-detection?l=python
 - [ ] https://github.com/taielab/awesome-hacking-lists#python
 
 一、域名扫描
-
 - https://github.com/topics/subdomain-scanner?l=python
 - [ ] https://github.com/monkey-wenjun/get_domain_info
 - [ ] https://github.com/BitTheByte/Monitorizer
@@ -271,7 +237,6 @@
 - [ ] https://github.com/BitTheByte/Monitorizer
 
 二、密码爆破
-
 - [ ] https://github.com/aedoo/Allscanner
 - [ ] https://github.com/qianniaoge/F-Scrack
 - [ ] https://github.com/j3ers3/Crackpy
@@ -279,7 +244,6 @@
 - [ ] https://github.com/Coroxx/TheSmartool
 
 三、端口扫描
-
 - [ ] https://github.com/Ascotbe/ReiAyanami
 - [ ] https://github.com/vesche/scanless
 - [ ] https://github.com/grayddq/PublicMonitors
@@ -291,7 +255,6 @@
 - [ ] https://github.com/OpenFireTechnologies/PortScanner
 
 四、路径扫描
-
 - [ ] https://github.com/maurosoria/dirsearch
 - [ ] https://github.com/H4ckForJob/dirmap
 - [ ] https://github.com/aedoo/WebServiceScanner
@@ -315,7 +278,6 @@
 - [ ] https://github.com/EASY233/Finger
 
 五、Web安全
-
 - [ ] https://github.com/knassar702/lorsrf
 - [ ] https://github.com/j3ssie/Osmedeus
 - [ ] https://github.com/sqlmapproject/sqlmap
@@ -334,7 +296,6 @@
 - [ ] https://github.com/stamparm/DSXS
 
 六、漏洞扫描
-
 - [ ] https://github.com/PaytmLabs/nerve
 - [ ] https://github.com/teamssix/pigat
 - [ ] https://github.com/Xyntax/POC-T
@@ -478,7 +439,6 @@
 - [ ] https://github.com/X-x-X-0/Vulnnr
 
 七、内网渗透
-
 - [ ] https://github.com/loseys/BlackMamba
 - [ ] https://github.com/Ar3h/putter
 - [ ] https://github.com/bats3c/shad0w
@@ -488,7 +448,6 @@
 - [ ] https://github.com/ice-doom/EyeJo
 
 八、代理隧道
-
 - [ ] https://github.com/L-codes/Neo-reGeorg
 - [ ] https://github.com/nccgroup/ABPTTS
 - [ ] https://github.com/FunnyWolf/pystinger
@@ -501,7 +460,6 @@
 - [ ] https://github.com/shimmeris/SCFProxy
 
 九、病毒免杀
-
 - [ ] https://github.com/xct/morbol
 - [ ] https://github.com/T3jv1l/Sh3llshock
 - [ ] https://github.com/pureqh/webshell
@@ -513,7 +471,6 @@
 - [ ] https://github.com/Ch1ngg/ShellcodeWrapperModify
 
 十、代码审计
-
 - [ ] https://github.com/zsdlove/Hades
 - [ ] https://github.com/alpha1e0/kiwi
 - [ ] https://github.com/bit4woo/python_sec
@@ -522,29 +479,23 @@
 - [ ] https://github.com/MisakiKata/python_code_audit
 
 十一、蜜罐钓鱼
-
 - [ ] https://github.com/rsmusllp/king-phisher
 
 十二、应急响应
-
 - [ ] https://github.com/grayddq/GScan
 
 十三、移动安全
-
 - [ ] https://github.com/s0md3v/Diggy
 - [ ] https://github.com/dwisiswant0/apkleaks
 - [ ] https://github.com/langgithub/SekiroPython
 
 十四、漏洞赏金
-
 - [ ] https://github.com/honoki/bbrf-client
 
 十五、取证分析
-
 - [ ] https://github.com/visma-prodsec/columbo
 
 十六、其他项目
-
 - [ ] https://github.com/Ch1ngg/JCE
 - [ ] https://github.com/s0md3v/Arjun
 - [ ] https://github.com/FeeiCN/GSIL
@@ -682,11 +633,11 @@
 - [ ] https://github.com/KartheekLade/CANalyse
 - [ ] https://github.com/Skiller9090/Lucifer
 - [ ] https://github.com/izar/pytm
+- [ ] https://github.com/flipkart-incubator/Astra
 
 ## 0x06-Python逆向
 
 一、通过Python逆向
-
 - [ ] https://github.com/hugsy/gef
 - [ ] https://github.com/nsacyber/BAM
 - [ ] https://github.com/fireeye/capa
@@ -694,20 +645,17 @@
 - [ ] https://github.com/Martyx00/CollaRE
 
 二、逆向Python程序
-
 - [ ] https://github.com/Lunpopo/pyobfuscate
 - [ ] https://github.com/extremecoders-re/pyinstxtractor
 - [ ] https://www.freebuf.com/articles/network/258881.html
 
 三、Python恶意软件
-
 - [ ] https://github.com/danieluhricek/LiSa
 - [ ] https://github.com/ytisf/theZoo
 - [ ] https://github.com/CERT-Polska/mquery
 - [ ] https://github.com/termuxhackers-id/SARA
 
 四、其他资源
-
 - [ ] https://github.com/Martyx00/CollaRE
 
 ## 0x07-Python老师
