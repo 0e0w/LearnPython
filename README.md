@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年5月23日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年5月24日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -20,7 +20,6 @@
 - https://github.com/vinta/awesome-python
 
 一、基础入门
-
 - [ ] [《Python语言基础50课》](https://github.com/jackfrued/Python-Core-50-Courses)@骆昊
 - [ ] [《Python-100天从新手到大师》](https://github.com/jackfrued/Python-100-Days)@骆昊
 - [ ] [《以撸代码的形式学习Python》](https://github.com/xianhu/LearnPython)
@@ -44,26 +43,21 @@
 - [ ] [《Research Software Engineering with Python》](https://github.com/merely-useful/py-rse)
 
 二、高级进阶
-
 - [ ] [《Python 3 源码剖析》](https://github.com/flaggo/python3-source-code-analysis)
 
 三、算法学习
-
 - [ ] [《The Algorithms - Python》](https://github.com/TheAlgorithms/Python)
 - [ ] [《Python的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python)
 - [ ] [《数据结构和算法必知必会的50个代码实现》](https://github.com/wangzheng0822/algo)
 - [ ] [《Python36种设计模式》](https://github.com/ydf0509/python36patterns)
 
 四、机器学习
-
 - [ ] https://github.com/eriklindernoren/ML-From-Scratch
 
 五、学习视频
-
 - [ ] [Python 算法与数据结构视频教程](https://github.com/PegasusWang/python_data_structures_and_algorithms)
 
 六、杂七杂八
-
 - [ ] [Python语言资料集合](https://github.com/HaoZhang95/Python24)
 - [ ] [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 - [ ] [awesome-flask-cn](https://github.com/haiiiiiyun/awesome-flask-cn)
@@ -436,6 +430,7 @@
 - [ ] https://github.com/ultrasecurity/Storm-Breaker
 - [ ] https://github.com/bgbing/bgbingscan
 - [ ] https://github.com/X-x-X-0/Vulnnr
+- [ ] https://github.com/Hypdncy/NessusToReport | Nessus报告自动化生成工具 | 63
 
 七、内网渗透
 - [ ] https://github.com/loseys/BlackMamba
