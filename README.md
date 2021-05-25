@@ -195,6 +195,7 @@
 - [ ] https://github.com/google/fuzzbench
 - [ ] https://github.com/SECFORCE/Tunna
 - [ ] https://github.com/Genetic-Malware/Ebowla
+- [ ] https://github.com/sqlfluff/sqlfluff
 
 ## 0x05-Python安全
 
@@ -440,6 +441,7 @@
 - [ ] https://github.com/skelsec/pypykatz
 - [ ] https://github.com/gl4ssesbo1/Nebula
 - [ ] https://github.com/ice-doom/EyeJo
+- [ ] https://github.com/mhaskar/DNSStager
 
 八、代理隧道
 - [ ] https://github.com/L-codes/Neo-reGeorg
