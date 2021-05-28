@@ -635,6 +635,7 @@
 - [ ] https://github.com/Sachin-v3rma/Astra
 - [ ] https://github.com/indetectables-net/toolkit
 - [ ] https://github.com/Accenture/jenkins-attack-framework
+- [ ] https://github.com/sherlock-project/sherlock
 
 ## 0x06-Python逆向
 
