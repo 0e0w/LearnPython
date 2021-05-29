@@ -637,6 +637,7 @@
 - [ ] https://github.com/indetectables-net/toolkit
 - [ ] https://github.com/Accenture/jenkins-attack-framework
 - [ ] https://github.com/sherlock-project/sherlock
+- [ ] https://github.com/githubmaidou/tools
 
 ## 0x06-Python逆向
 
