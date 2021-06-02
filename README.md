@@ -151,6 +151,7 @@
 - [ ] https://github.com/Pebaz/nimporter
 - [ ] https://github.com/gruns/icecream
 - [ ] https://github.com/hustcc/PyG2Plot
+- [ ] https://github.com/nvbn/thefuck
 
 ## 0x04-Python项目
 
@@ -645,6 +646,7 @@
 - [ ] https://github.com/githubmaidou/tools
 - [ ] https://github.com/rek7/fireELF
 - [ ] https://github.com/OTRF/mordor
+- [ ] https://github.com/Symbo1/wsltools
 
 ## 0x06-Python逆向
 
