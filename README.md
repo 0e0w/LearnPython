@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年6月3日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年6月5日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -235,14 +235,7 @@
 - [ ] https://github.com/qianxiao996/Super-PortScan
 - [ ] https://github.com/BitTheByte/Monitorizer
 
-二、密码爆破
-- [ ] https://github.com/aedoo/Allscanner
-- [ ] https://github.com/qianniaoge/F-Scrack
-- [ ] https://github.com/j3ers3/Crackpy
-- [ ] https://github.com/noptrix/sshprank
-- [ ] https://github.com/Coroxx/TheSmartool
-
-三、端口扫描
+二、端口扫描
 - [ ] https://github.com/Ascotbe/ReiAyanami
 - [ ] https://github.com/vesche/scanless
 - [ ] https://github.com/grayddq/PublicMonitors
@@ -253,48 +246,11 @@
 - [ ] https://github.com/zer0h/httpscan
 - [ ] https://github.com/OpenFireTechnologies/PortScanner
 
-四、路径扫描
-- [ ] https://github.com/maurosoria/dirsearch
-- [ ] https://github.com/H4ckForJob/dirmap
-- [ ] https://github.com/aedoo/WebServiceScanner
-- [ ] https://github.com/aedoo/ACMSDiscovery
-- [ ] https://github.com/dr0op/bufferfly
-- [ ] https://github.com/TideSec/TideFinger
-- [ ] https://github.com/xmendez/wfuzz
-- [ ] https://github.com/wgpsec/urlscan
-- [ ] https://github.com/j3ers3/Cscan
-- [ ] https://github.com/Nekmo/dirhunt
-- [ ] https://github.com/EASY233/Finger
-- [ ] https://github.com/s7ckTeam/Glass
-- [ ] https://github.com/s7ckTeam/Photostudio
-- [ ] https://github.com/clowndmn/DirCrack
-- [ ] https://github.com/stanislav-web/OpenDoor
-- [ ] https://github.com/pmiaowu/PmWebDirScan
-- [ ] https://github.com/teamssix/url_batch_discovery
-- [ ] https://github.com/s7ckTeam/sWebScanner
-- [ ] https://github.com/k0njac/arthinDir
-- [ ] https://github.com/teamssix/Batch-identification-of-website-CMS-fingerprints
+三、资产扫描
+
 - [ ] https://github.com/EASY233/Finger
 
-五、Web安全
-- [ ] https://github.com/knassar702/lorsrf
-- [ ] https://github.com/j3ssie/Osmedeus
-- [ ] https://github.com/sqlmapproject/sqlmap
-- [ ] https://github.com/c0ny1/upload-fuzz-dic-builder
-- [ ] https://github.com/zhanghangorg/sqlinj-ant
-- [ ] https://github.com/cn-kali-team/Gui-Acunetix-Api
-- [ ] https://github.com/JohnTroony/Blisqy
-- [ ] https://github.com/0xInfection/XSRFProbe
-- [ ] https://github.com/cujanovic/SSRF-Testing
-- [ ] https://github.com/rotemreiss/uddup
-- [ ] https://github.com/whitel1st/docem
-- [ ] https://github.com/m4ll0k/Atlas
-- [ ] https://github.com/lanjelot/albatar
-- [ ] https://github.com/almandin/fuxploider
-- [ ] https://github.com/allyomalley/BurpParamFlagger
-- [ ] https://github.com/stamparm/DSXS
-
-六、漏洞扫描
+四、漏洞扫描
 - [ ] https://github.com/PaytmLabs/nerve
 - [ ] https://github.com/teamssix/pigat
 - [ ] https://github.com/Xyntax/POC-T
@@ -438,30 +394,57 @@
 - [ ] https://github.com/Hypdncy/NessusToReport | Nessus报告自动化生成工具 | 63
 - [ ] https://github.com/trustedsec/ptf
 
-七、内网渗透
-- [ ] https://github.com/loseys/BlackMamba
-- [ ] https://github.com/Ar3h/putter
-- [ ] https://github.com/bats3c/shad0w
-- [ ] https://github.com/AdrMXR/KitHack
-- [ ] https://github.com/skelsec/pypykatz
-- [ ] https://github.com/gl4ssesbo1/Nebula
-- [ ] https://github.com/ice-doom/EyeJo
-- [ ] https://github.com/mhaskar/DNSStager
-- [ ] https://github.com/mgeeky/RedWarden
+五、密码爆破
 
-八、代理隧道
-- [ ] https://github.com/L-codes/Neo-reGeorg
-- [ ] https://github.com/nccgroup/ABPTTS
-- [ ] https://github.com/FunnyWolf/pystinger
-- [ ] https://github.com/sshuttle/sshuttle
-- [ ] https://github.com/sensepost/reGeorg
-- [ ] https://github.com/returntocorp/semgrep
-- [ ] https://github.com/3v4Si0N/HTTP-revshell
-- [ ] https://github.com/ppbibo/C2-of-aliyun-OSS
-- [ ] https://github.com/MrCl0wnLab/ShellShockHunter
-- [ ] https://github.com/shimmeris/SCFProxy
+- [ ] https://github.com/aedoo/Allscanner
+- [ ] https://github.com/qianniaoge/F-Scrack
+- [ ] https://github.com/j3ers3/Crackpy
+- [ ] https://github.com/noptrix/sshprank
+- [ ] https://github.com/Coroxx/TheSmartool
 
-九、病毒免杀
+六、路径扫描
+
+- [ ] https://github.com/maurosoria/dirsearch
+- [ ] https://github.com/H4ckForJob/dirmap
+- [ ] https://github.com/aedoo/WebServiceScanner
+- [ ] https://github.com/aedoo/ACMSDiscovery
+- [ ] https://github.com/dr0op/bufferfly
+- [ ] https://github.com/TideSec/TideFinger
+- [ ] https://github.com/xmendez/wfuzz
+- [ ] https://github.com/wgpsec/urlscan
+- [ ] https://github.com/j3ers3/Cscan
+- [ ] https://github.com/Nekmo/dirhunt
+- [ ] https://github.com/s7ckTeam/Glass
+- [ ] https://github.com/s7ckTeam/Photostudio
+- [ ] https://github.com/clowndmn/DirCrack
+- [ ] https://github.com/stanislav-web/OpenDoor
+- [ ] https://github.com/pmiaowu/PmWebDirScan
+- [ ] https://github.com/teamssix/url_batch_discovery
+- [ ] https://github.com/s7ckTeam/sWebScanner
+- [ ] https://github.com/k0njac/arthinDir
+- [ ] https://github.com/teamssix/Batch-identification-of-website-CMS-fingerprints
+
+七、Web安全
+
+- [ ] https://github.com/knassar702/lorsrf
+- [ ] https://github.com/j3ssie/Osmedeus
+- [ ] https://github.com/sqlmapproject/sqlmap
+- [ ] https://github.com/c0ny1/upload-fuzz-dic-builder
+- [ ] https://github.com/zhanghangorg/sqlinj-ant
+- [ ] https://github.com/cn-kali-team/Gui-Acunetix-Api
+- [ ] https://github.com/JohnTroony/Blisqy
+- [ ] https://github.com/0xInfection/XSRFProbe
+- [ ] https://github.com/cujanovic/SSRF-Testing
+- [ ] https://github.com/rotemreiss/uddup
+- [ ] https://github.com/whitel1st/docem
+- [ ] https://github.com/m4ll0k/Atlas
+- [ ] https://github.com/lanjelot/albatar
+- [ ] https://github.com/almandin/fuxploider
+- [ ] https://github.com/allyomalley/BurpParamFlagger
+- [ ] https://github.com/stamparm/DSXS
+
+八、病毒免杀
+
 - [ ] https://github.com/xct/morbol
 - [ ] https://github.com/T3jv1l/Sh3llshock
 - [ ] https://github.com/pureqh/webshell
@@ -473,7 +456,38 @@
 - [ ] https://github.com/Ch1ngg/ShellcodeWrapperModify
 - [ ] https://github.com/cribdragg3r/Alaris
 
-十、代码审计
+九、代理隧道
+
+- [ ] https://github.com/L-codes/Neo-reGeorg
+- [ ] https://github.com/nccgroup/ABPTTS
+- [ ] https://github.com/FunnyWolf/pystinger
+- [ ] https://github.com/sshuttle/sshuttle
+- [ ] https://github.com/sensepost/reGeorg
+- [ ] https://github.com/returntocorp/semgrep
+- [ ] https://github.com/3v4Si0N/HTTP-revshell
+- [ ] https://github.com/ppbibo/C2-of-aliyun-OSS
+- [ ] https://github.com/MrCl0wnLab/ShellShockHunter
+- [ ] https://github.com/shimmeris/SCFProxy
+
+十、内网渗透
+
+- [ ] https://github.com/loseys/BlackMamba
+- [ ] https://github.com/Ar3h/putter
+- [ ] https://github.com/bats3c/shad0w
+- [ ] https://github.com/AdrMXR/KitHack
+- [ ] https://github.com/skelsec/pypykatz
+- [ ] https://github.com/gl4ssesbo1/Nebula
+- [ ] https://github.com/ice-doom/EyeJo
+- [ ] https://github.com/mhaskar/DNSStager
+- [ ] https://github.com/mgeeky/RedWarden
+
+十一、蜜罐钓鱼
+- [ ] https://github.com/rsmusllp/king-phisher
+- [ ] https://github.com/pwnlandia/mhn
+- [ ] https://github.com/Drew-Alleman/dystopia
+
+十二、代码审计
+
 - [ ] https://github.com/zsdlove/Hades
 - [ ] https://github.com/alpha1e0/kiwi
 - [ ] https://github.com/bit4woo/python_sec
@@ -481,26 +495,21 @@
 - [ ] https://github.com/TheKingOfDuck/FileMonitor
 - [ ] https://github.com/MisakiKata/python_code_audit
 
-十一、蜜罐钓鱼
-- [ ] https://github.com/rsmusllp/king-phisher
-- [ ] https://github.com/pwnlandia/mhn
-- [ ] https://github.com/Drew-Alleman/dystopia
+十三、编码规范
 
-十二、应急响应
+十四、应急响应
+
 - [ ] https://github.com/grayddq/GScan
 
-十三、移动安全
+十五、移动安全
 - [ ] https://github.com/s0md3v/Diggy
 - [ ] https://github.com/dwisiswant0/apkleaks
 - [ ] https://github.com/langgithub/SekiroPython
 
-十四、漏洞赏金
+十六、漏洞赏金
 - [ ] https://github.com/honoki/bbrf-client
 
-十五、取证分析
-- [ ] https://github.com/visma-prodsec/columbo
-
-十六、其他项目
+十七、其他项目
 - [ ] https://github.com/Ch1ngg/JCE
 - [ ] https://github.com/s0md3v/Arjun
 - [ ] https://github.com/FeeiCN/GSIL
@@ -621,7 +630,6 @@
 - [ ] https://github.com/ByHuaiNian/webscan1.0
 - [ ] https://github.com/7dog7/bottleneckOsmosis
 - [ ] https://github.com/H4ckForJob/kingkong
-- [ ] https://github.com/EASY233/Finger
 - [ ] https://github.com/jstang9527/aquaman
 - [ ] https://github.com/EASY233/Gather
 - [ ] https://github.com/Samsung/TwiTi
@@ -649,6 +657,7 @@
 - [ ] https://github.com/OTRF/mordor
 - [ ] https://github.com/Symbo1/wsltools
 - [ ] https://github.com/VVVinson/Zfre_scan
+- [ ] https://github.com/visma-prodsec/columbo
 
 ## 0x06-Python逆向
 
