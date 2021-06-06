@@ -661,6 +661,7 @@
 - [ ] https://github.com/Symbo1/wsltools
 - [ ] https://github.com/VVVinson/Zfre_scan
 - [ ] https://github.com/visma-prodsec/columbo
+- [ ] https://github.com/mgeeky/RedWarden
 
 ## 0x06-Python逆向
 
