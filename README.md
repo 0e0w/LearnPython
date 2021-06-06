@@ -424,6 +424,7 @@
 - [ ] https://github.com/s7ckTeam/sWebScanner
 - [ ] https://github.com/k0njac/arthinDir
 - [ ] https://github.com/teamssix/Batch-identification-of-website-CMS-fingerprints
+- [ ] https://github.com/intrudir/403fuzzer
 
 七、Web安全
 
@@ -469,6 +470,7 @@
 - [ ] https://github.com/ppbibo/C2-of-aliyun-OSS
 - [ ] https://github.com/MrCl0wnLab/ShellShockHunter
 - [ ] https://github.com/shimmeris/SCFProxy
+- [ ] https://github.com/kovige/NetScan
 
 十、内网渗透
 
