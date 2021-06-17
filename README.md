@@ -671,6 +671,8 @@
 - [ ] https://github.com/ht0Ruial/TomatoTools |  TomatoTools 一款CTF杂项利器 | 15
 - [ ] https://github.com/MISP/MISP
 - [ ] https://github.com/m0sway/JuD
+- [ ] https://github.com/Master-Perng/InfoScanner
+- [ ] https://github.com/P1-Team/AlliN
 
 ## 0x06-Python逆向
 
