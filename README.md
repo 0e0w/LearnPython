@@ -676,6 +676,7 @@
 - [ ] https://github.com/Master-Perng/InfoScanner
 - [ ] https://github.com/P1-Team/AlliN
 - [ ] https://github.com/bee-san/pyWhat
+- [ ] https://github.com/Threezh1/JSFinder
 
 ## 0x06-Python逆向
 
