@@ -677,6 +677,7 @@
 - [ ] https://github.com/P1-Team/AlliN
 - [ ] https://github.com/bee-san/pyWhat
 - [ ] https://github.com/Threezh1/JSFinder
+- [ ] https://github.com/shad0w008/Scanver
 
 ## 0x06-Python逆向
 
