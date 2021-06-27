@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年6月26日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年6月27日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -251,6 +251,7 @@
 
 - [ ] https://github.com/EASY233/Finger
 - [ ] https://github.com/wgpsec/ENScan
+- [ ] https://github.com/s7ckTeam/Glass
 
 四、漏洞扫描
 - [ ] https://github.com/PaytmLabs/nerve
@@ -415,7 +416,6 @@
 - [ ] https://github.com/wgpsec/urlscan
 - [ ] https://github.com/j3ers3/Cscan
 - [ ] https://github.com/Nekmo/dirhunt
-- [ ] https://github.com/s7ckTeam/Glass
 - [ ] https://github.com/s7ckTeam/Photostudio
 - [ ] https://github.com/clowndmn/DirCrack
 - [ ] https://github.com/stanislav-web/OpenDoor
@@ -681,6 +681,7 @@
 - [ ] https://github.com/shad0w008/Scanver
 - [ ] https://github.com/ReFirmLabs/binwalk
 - [ ] https://github.com/cyberark/BlobHunter
+- [ ] https://github.com/jammny/JWS-icpscan
 
 ## 0x06-Python逆向
 
