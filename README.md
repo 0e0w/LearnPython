@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年6月27日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年6月28日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -72,7 +72,6 @@
 ## 0x03-Python框架
 
 一、安全框架
-- [ ] https://github.com
 
 二、HTTP框架
 - [ ] https://github.com/psf/requests
@@ -80,68 +79,51 @@
 - [ ] https://github.com/BugScanTeam/hackhttp
 
 三、DNS框架
-- [ ] https://github.com
 
 四、数据库框架
-- [ ] https://github.com
 
 五、Web框架
 - [ ] https://github.com/topics/web?l=python
 - [x] https://github.com/pallets/flask
 
 六、爬虫框架
-- [ ] https://github.com
 
 七、JSON解析
-- [ ] https://github.com
+- [ ] https://github.com/jsonpickle/jsonpickle
 
 八、中间件框架
-- [ ] https://github.com
 
 九、日志框架
 - [ ] https://github.com/logpai/logparser
 
 十、错误处理
-- [ ] https://github.com
 
 十一、消息队列
-- [ ] https://github.com
 
 十二、Service Mesh
-- [ ] https://github.com
 
 十三、RPC
-- [ ] https://github.com
 
 十四、协程池
 - [ ] https://github.com/dbader/schedule
 
 十五、视觉图像处理
-- [ ] https://github.com
 
 十六、网络框架
-- [ ] https://github.com
 
 十七、测试框架
-- [ ] https://github.com
 
 十八、邮箱框架
-- [ ] https://github.com
 
 十九、图形化
-- [ ] https://github.com
 
 二十、RSS框架
-- [ ] https://github.com
 
 二十一、电子表格
-- [ ] https://github.com
 
 二十二、打印调试
-- [ ] https://github.com
 
 二十三、时间日期
-- [ ] https://github.com
 
 二十三、其他框架
 - [ ] https://github.com/takluyver/pynsist
@@ -682,6 +664,7 @@
 - [ ] https://github.com/ReFirmLabs/binwalk
 - [ ] https://github.com/cyberark/BlobHunter
 - [ ] https://github.com/jammny/JWS-icpscan
+- [ ] https://github.com/z1un/weaver_exp
 
 ## 0x06-Python逆向
 
