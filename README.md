@@ -428,6 +428,7 @@
 - [ ] https://github.com/allyomalley/BurpParamFlagger
 - [ ] https://github.com/stamparm/DSXS
 - [ ] https://github.com/3gstudent/pyXSSPlatform
+- [ ] https://github.com/rmb122/xss-receiver
 
 八、病毒免杀
 
