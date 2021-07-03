@@ -134,6 +134,7 @@
 - [ ] https://github.com/gruns/icecream
 - [ ] https://github.com/hustcc/PyG2Plot
 - [ ] https://github.com/nvbn/thefuck
+- [ ] https://github.com/iojw/socialscan
 
 ## 0x04-Python项目
 
