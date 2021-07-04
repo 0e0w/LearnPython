@@ -219,6 +219,7 @@
 - [ ] https://github.com/qianxiao996/Super-PortScan
 - [ ] https://github.com/BitTheByte/Monitorizer
 - [ ] https://github.com/r3curs1v3-pr0xy/sub404
+- [ ] https://github.com/storenth/lazyrecon
 
 二、端口扫描
 - [ ] https://github.com/Ascotbe/ReiAyanami
@@ -682,6 +683,11 @@
 - [ ] https://github.com/Svenito/exploit-pattern
 - [ ] https://github.com/torque59/Nosql-Exploitation-Framework
 - [ ] https://github.com/0671/RabR
+- [ ] https://github.com/r3curs1v3-pr0xy/vajra
+- [ ] https://github.com/XMCyber/MacHound
+- [ ] https://github.com/rockmelodies/WCnife
+- [ ] https://github.com/dfirtrack/dfirtrack
+- [ ] https://github.com/sinwindie/OSINT
 
 ## 0x06-Python逆向
 
