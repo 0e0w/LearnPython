@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年7月4日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年7月6日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -138,14 +138,21 @@
 
 ## 0x04-Python项目
 
+- https://github.com/trending/Python
+- https://github.com/topics/tool?l=Python
+- https://github.com/trending/Python?since=daily
+- https://github.com/trending/Python?since=weekly
+- https://github.com/trending/Python?since=monthly
+
 一、爬虫项目
 - [ ] https://github.com/jiallv/Spiders
+- [ ] https://github.com/fishtn/hoopa
 - [ ] https://github.com/Boris-code/feapder
 - [ ] https://github.com/dataabc/weiboSpider
 - [ ] https://github.com/xingag/spider_python
 - [ ] https://github.com/Ehco1996/Python-crawler
 - [ ] https://github.com/wistbean/learn_python3_spider
-- [ ] https://github.com/fishtn/hoopa
+- [ ] https://github.com/Boris-code/feapder-platform
 
 二、数据分析
 - [ ] https://github.com/hi-weijun/PythonDataScience-Collections
@@ -161,6 +168,7 @@
 - [ ] https://github.com/shidenggui/easytrader
 - [ ] https://github.com/zhy0313/ea-python
 - [ ] https://github.com/vnpy/vnpy
+- [ ] https://github.com/sngyai/Sequoia
 
 四、优秀项目
 - [ ] https://github.com/tp4a/teleport
@@ -184,6 +192,9 @@
 - [ ] https://github.com/Genetic-Malware/Ebowla
 - [ ] https://github.com/sqlfluff/sqlfluff
 - [ ] https://github.com/joke2k/faker
+- [ ] https://github.com/topydo/topydo
+- [ ] https://github.com/umutoztunc/whitesymex
+- [ ] https://github.com/jina-ai/jina
 
 ## 0x05-Python安全
 
@@ -237,6 +248,7 @@
 - [ ] https://github.com/EASY233/Finger
 - [ ] https://github.com/wgpsec/ENScan
 - [ ] https://github.com/s7ckTeam/Glass
+- [ ] https://github.com/xiaoheiwo/GGSCAN
 
 四、漏洞扫描
 - [ ] https://github.com/PaytmLabs/nerve
@@ -381,6 +393,7 @@
 - [ ] https://github.com/Hypdncy/NessusToReport | Nessus报告自动化生成工具 | 63
 - [ ] https://github.com/trustedsec/ptf
 - [ ] https://github.com/vulmon/Vulmap
+- [ ] https://github.com/xundididi/Voyager
 
 五、密码爆破
 
@@ -688,6 +701,10 @@
 - [ ] https://github.com/rockmelodies/WCnife
 - [ ] https://github.com/dfirtrack/dfirtrack
 - [ ] https://github.com/sinwindie/OSINT
+- [ ] https://github.com/rabbitmask/Libra | 网站篡改暗链死链监测平台 | 2
+- [ ] https://github.com/RhinoSecurityLabs/pacu
+- [ ] https://github.com/geohot/corona
+- [ ] https://github.com/BXS-Team/aiiod
 
 ## 0x06-Python逆向
 
@@ -697,6 +714,7 @@
 - [ ] https://github.com/fireeye/capa
 - [ ] https://github.com/Boris-code/jmpy
 - [ ] https://github.com/Martyx00/CollaRE
+- [ ] https://github.com/cea-sec/miasm
 
 二、逆向Python程序
 - [ ] https://github.com/Lunpopo/pyobfuscate
