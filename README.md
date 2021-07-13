@@ -407,6 +407,7 @@
 - [ ] https://github.com/j3ers3/Crackpy
 - [ ] https://github.com/noptrix/sshprank
 - [ ] https://github.com/Coroxx/TheSmartool
+- [ ] https://github.com/se55i0n/DBScanner
 
 六、路径扫描
 
@@ -464,6 +465,7 @@
 - [ ] https://github.com/Ch1ngg/ShellcodeWrapperModify
 - [ ] https://github.com/cribdragg3r/Alaris
 - [ ] https://github.com/zeroSteiner/crimson-forge
+- [ ] https://github.com/lengjibo/FourEye
 
 九、代理隧道
 
@@ -478,6 +480,7 @@
 - [ ] https://github.com/MrCl0wnLab/ShellShockHunter
 - [ ] https://github.com/shimmeris/SCFProxy
 - [ ] https://github.com/kovige/NetScan
+- [ ] https://github.com/XX-net/XX-Net
 
 十、内网渗透
 
@@ -490,6 +493,7 @@
 - [ ] https://github.com/ice-doom/EyeJo
 - [ ] https://github.com/mhaskar/DNSStager
 - [ ] https://github.com/mgeeky/RedWarden
+- [ ] https://github.com/laramies/theHarvester
 
 十一、蜜罐钓鱼
 - [ ] https://github.com/rsmusllp/king-phisher
@@ -714,6 +718,7 @@
 - [ ] https://github.com/Ebryx/GitDump
 - [ ] https://github.com/nameko/nameko
 - [ ] https://github.com/therealsaumil/armx
+- [ ] https://github.com/pwnwikiorg/AutoSRC
 
 ## 0x06-Python逆向
 
@@ -735,6 +740,7 @@
 - [ ] https://github.com/ytisf/theZoo
 - [ ] https://github.com/CERT-Polska/mquery
 - [ ] https://github.com/termuxhackers-id/SARA
+- [ ] https://github.com/Marten4n6/EvilOSX
 
 四、其他资源
 - [ ] https://github.com/Martyx00/CollaRE
