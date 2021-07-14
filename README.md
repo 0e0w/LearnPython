@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年7月13日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年7月14日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -199,14 +199,14 @@
 - [ ] https://github.com/momosecurity/bombus
 - [ ] https://github.com/heimiricmr/bromelia
 - [ ] https://github.com/snooppr/snoop
+- [ ] https://github.com/slavfox/Cozette
 
 ## 0x05-Python安全
 
-〇、HackWithPython
 - https://github.com/topics/xss?l=python
 - https://github.com/topics/xss-attacks?l=python
 - https://github.com/topics/xss-detection?l=python
-- [ ] https://github.com/taielab/awesome-hacking-lists#python
+- https://github.com/taielab/awesome-hacking-lists#python
 
 一、域名扫描
 - https://github.com/topics/subdomain-scanner?l=python
@@ -494,6 +494,7 @@
 - [ ] https://github.com/mhaskar/DNSStager
 - [ ] https://github.com/mgeeky/RedWarden
 - [ ] https://github.com/laramies/theHarvester
+- [ ] https://github.com/FunnyWolf/Viper
 
 十一、蜜罐钓鱼
 - [ ] https://github.com/rsmusllp/king-phisher
