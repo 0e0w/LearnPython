@@ -204,6 +204,7 @@
 - [ ] https://github.com/adrian3ka/go-learn-ai
 - [ ] https://github.com/Manuhmutua/machine-learning-algorithms-golang
 - [ ] https://github.com/bristolgolang/machinelearning
+- [ ] https://github.com/facebookresearch/ParlAI
 
 ## 0x05-Python安全
 
@@ -258,6 +259,7 @@
 - [ ] https://github.com/wgpsec/ENScan
 - [ ] https://github.com/s7ckTeam/Glass
 - [ ] https://github.com/xiaoheiwo/GGSCAN
+- [ ] https://github.com/njcx/py3finger
 
 四、漏洞扫描
 - [ ] https://github.com/PaytmLabs/nerve
