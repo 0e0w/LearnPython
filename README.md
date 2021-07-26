@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年7月25日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年7月26日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -42,6 +42,7 @@
 - [ ] [《流畅的Python》](https://github.com/cundi/fluent-python)
 - [ ] [《Research Software Engineering with Python》](https://github.com/merely-useful/py-rse)
 - [ ] [《10DaysOfPython》](https://github.com/Asabeneh/10DaysOfPython)
+- [ ] [《Pytnon黑客编程之极速入门》](https://github.com/xuanhun/PythonHackingBook1)
 
 二、高级进阶
 - [ ] [《Python 3 源码剖析》](https://github.com/flaggo/python3-source-code-analysis)
@@ -205,6 +206,7 @@
 - [ ] https://github.com/Manuhmutua/machine-learning-algorithms-golang
 - [ ] https://github.com/bristolgolang/machinelearning
 - [ ] https://github.com/facebookresearch/ParlAI
+- [ ] https://github.com/internetwache/GitTools
 
 ## 0x05-Python安全
 
@@ -241,6 +243,7 @@
 - [ ] https://github.com/r3curs1v3-pr0xy/sub404
 - [ ] https://github.com/storenth/lazyrecon
 - [ ] https://github.com/mi2acle/ofaReporter
+- [ ] https://github.com/GKNSB/Lepus
 
 二、端口扫描
 - [ ] https://github.com/Ascotbe/ReiAyanami
