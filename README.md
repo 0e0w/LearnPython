@@ -207,6 +207,7 @@
 - [ ] https://github.com/bristolgolang/machinelearning
 - [ ] https://github.com/facebookresearch/ParlAI
 - [ ] https://github.com/internetwache/GitTools
+- [ ] https://github.com/J4FSec/In0ri
 
 ## 0x05-Python安全
 
@@ -408,6 +409,7 @@
 - [ ] https://github.com/trustedsec/ptf
 - [ ] https://github.com/vulmon/Vulmap
 - [ ] https://github.com/xundididi/Voyager
+- [ ] https://github.com/OWASP/Nettacker
 
 五、密码爆破
 
