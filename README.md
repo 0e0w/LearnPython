@@ -264,7 +264,8 @@
 - [ ] https://github.com/s7ckTeam/Glass
 - [ ] https://github.com/xiaoheiwo/GGSCAN
 - [ ] https://github.com/njcx/py3finger
-- [ ] https://github.com/wikiZ/Kunyu
+- [ ] https://github.com/knownsec/Kunyu
+- [ ] https://github.com/0x727/ShuiZe_0x727
 
 四、漏洞扫描
 - [ ] https://github.com/PaytmLabs/nerve
@@ -411,6 +412,7 @@
 - [ ] https://github.com/vulmon/Vulmap
 - [ ] https://github.com/xundididi/Voyager
 - [ ] https://github.com/OWASP/Nettacker
+- [ ] https://github.com/oppsec/juumla
 
 五、密码爆破
 
@@ -468,6 +470,9 @@
 
 八、病毒免杀
 
+- https://github.com/topics/shellcode?l=python
+- https://github.com/search?l=Python&q=shellcode
+- https://github.com/search?l=Python&q=bypass
 - [ ] https://github.com/xct/morbol
 - [ ] https://github.com/T3jv1l/Sh3llshock
 - [ ] https://github.com/pureqh/webshell
@@ -482,6 +487,11 @@
 - [ ] https://github.com/lengjibo/FourEye
 - [ ] https://github.com/kyleavery/ThirdEye
 - [ ] https://github.com/MrWQ/HanGuang
+- [ ] https://github.com/OneHone/Py-Shellcode
+- [ ] https://github.com/govolution/avet
+- [ ] https://github.com/Mr-Un1k0d3r/DKMC
+- [ ] https://github.com/j3ers3/Pyloader
+- [ ] https://github.com/sp4zcmd/DnsPTRShellcodeLoader
 
 九、代理隧道
 
