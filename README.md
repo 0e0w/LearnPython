@@ -493,6 +493,12 @@
 - [ ] https://github.com/Mr-Un1k0d3r/DKMC
 - [ ] https://github.com/j3ers3/Pyloader
 - [ ] https://github.com/sp4zcmd/DnsPTRShellcodeLoader
+- [ ] https://github.com/OWASP/ZSC
+- [ ] https://github.com/secretsquirrel/fido
+- [ ] https://www.gushiciku.cn/pl/gmM3
+- [ ] https://github.com/Arno0x/ShellcodeWrapper
+- [ ] https://github.com/RCStep/CSSG
+- [ ] https://github.com/sayhi2urmom/shellcodeseperator
 
 九、代理隧道
 
