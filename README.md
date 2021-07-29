@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年7月28日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年7月29日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -136,6 +136,7 @@
 - [ ] https://github.com/hustcc/PyG2Plot
 - [ ] https://github.com/nvbn/thefuck
 - [ ] https://github.com/iojw/socialscan
+- [ ] https://github.com/splitline/Pickora
 
 ## 0x04-Python项目
 
@@ -755,6 +756,7 @@
 - [ ] https://github.com/Neo23x0/Loki
 - [ ] https://github.com/loecho-sec/ARL-Finger-ADD
 - [ ] https://github.com/wonderkun/crawler
+- [ ] https://github.com/DigeeX/raider
 
 ## 0x06-Python逆向
 
