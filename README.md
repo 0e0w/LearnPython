@@ -209,6 +209,7 @@
 - [ ] https://github.com/facebookresearch/ParlAI
 - [ ] https://github.com/internetwache/GitTools
 - [ ] https://github.com/J4FSec/In0ri
+- [ ] https://github.com/BishopFox/eyeballer
 
 ## 0x05-Python安全
 
@@ -574,7 +575,6 @@
 - [ ] https://github.com/Lucifer1993/ALB
 - [ ] https://github.com/wgpsec/Perception
 - [ ] https://github.com/malwaredllc/byob
-- [ ] https://github.com/epinna/tplmap
 - [ ] https://github.com/bit4woo/teemo
 - [ ] https://github.com/kangvcar/InfoSpider
 - [ ] https://github.com/imWildCat/scylla
