@@ -471,6 +471,7 @@
 - [ ] https://github.com/stamparm/DSXS
 - [ ] https://github.com/3gstudent/pyXSSPlatform
 - [ ] https://github.com/rmb122/xss-receiver
+- [ ] https://github.com/Ekultek/XanXSS
 
 八、病毒免杀
 
@@ -503,6 +504,7 @@
 - [ ] https://github.com/RCStep/CSSG
 - [ ] https://github.com/sayhi2urmom/shellcodeseperator
 - [ ] https://github.com/9emin1/charlotte
+- [ ] https://github.com/bats3c/darkarmour
 
 九、代理隧道
 
