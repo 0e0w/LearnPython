@@ -784,6 +784,7 @@
 - [ ] https://github.com/Werneror/AutoSrc
 - [ ] https://github.com/AlessandroZ/BeRoot
 - [ ] https://github.com/Tib3rius/AutoRecon
+- [ ] https://github.com/halftion/discern
 
 ## 0x06-Python逆向
 
