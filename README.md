@@ -69,6 +69,7 @@
 - [ ] [awesome-django-cn](https://github.com/haiiiiiyun/awesome-django-cn)
 - [ ] https://www.pypy.org
 - [ ] https://github.com/jberhane47/training_python
+- [ ] https://github.com/kenwoodjw/python_interview_question
 
 ## 0x02-Python标准
 
@@ -788,6 +789,7 @@
 - [ ] https://github.com/halftion/discern
 - [ ] https://github.com/kitezzzGrim/KiteCollection
 - [ ] https://github.com/RhinoSecurityLabs/pacu
+- [ ] https://github.com/G-Security-Team/GSLibrary
 
 ## 0x06-Python逆向
 
