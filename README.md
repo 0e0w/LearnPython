@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年8月12日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年8月13日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -222,7 +222,7 @@
 - https://github.com/topics/xss-detection?l=python
 - https://github.com/taielab/awesome-hacking-lists#python
 
-一、域名扫描
+一、域名收集
 - https://github.com/topics/subdomain-scanner?l=python
 - [ ] https://github.com/monkey-wenjun/get_domain_info
 - [ ] https://github.com/BitTheByte/Monitorizer
@@ -254,6 +254,7 @@
 - [ ] https://github.com/guelfoweb/knock
 - [ ] https://github.com/naufalardhani/domhttpx
 - [ ] https://github.com/gfek/Lepus
+- [ ] https://github.com/jonluca/Anubis
 
 二、端口扫描
 - [ ] https://github.com/Ascotbe/ReiAyanami
@@ -544,11 +545,17 @@
 - [ ] https://github.com/FunnyWolf/Viper
 
 十一、蜜罐钓鱼
+
+- 邮件发送
+- 钓鱼模板
+
 - [ ] https://github.com/rsmusllp/king-phisher
 - [ ] https://github.com/pwnlandia/mhn
 - [ ] https://github.com/Drew-Alleman/dystopia
 - [ ] https://github.com/i11us0ry/tools-gophish
 - [ ] https://github.com/p1r06u3/opencanary_web
+- [ ] https://github.com/fireeye/ReelPhish
+- [ ] https://github.com/ustayready/CredSniper
 
 十二、代码审计
 
@@ -655,7 +662,6 @@
 - [ ] https://github.com/Henrique-Miranda/thg-framework
 - [ ] https://github.com/mstxq17/MoreCode
 - [ ] https://github.com/ctxis/crackerjack
-- [ ] https://github.com/jonluca/Anubis
 - [ ] https://github.com/JE2Se/AssetScan
 - [ ] https://github.com/Patrowl/PatrowlHears
 - [ ] https://github.com/zj1244/beholder_scanner
