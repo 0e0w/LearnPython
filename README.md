@@ -280,6 +280,7 @@
 - [ ] https://github.com/0x727/ShuiZe_0x727
 - [ ] https://github.com/mstxq17/MoreIP
 - [ ] https://github.com/BaizeSec/HGather
+- [ ] https://github.com/j5s/FoFaSearch
 
 四、漏洞扫描
 - [ ] https://github.com/PaytmLabs/nerve
@@ -427,6 +428,7 @@
 - [ ] https://github.com/OWASP/Nettacker
 - [ ] https://github.com/oppsec/juumla
 - [ ] https://github.com/bigblackhat/oFx
+- [ ] https://github.com/rabbitmask/Meppo
 
 五、密码爆破
 
