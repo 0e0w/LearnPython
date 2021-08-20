@@ -589,8 +589,10 @@
 - [ ] https://github.com/dqzg12300/fridaUiTools
 - [ ] https://github.com/hluwa/Wallbreaker
 - [ ] https://github.com/rovellipaolo/NinjaDroid
+- [ ] https://github.com/FSecureLABS/drozer
 - iOS
 - [ ] https://github.com/eseGithub/iOSTools
+- [ ] https://github.com/FSecureLABS/needle
 
 十六、漏洞赏金
 
@@ -619,7 +621,6 @@
 - [ ] https://github.com/devanshbatham/ParamSpider
 - [ ] https://github.com/trustedsec/social-engineer-toolkit
 - [ ] https://github.com/Ares-X/AWD-Predator-Framework
-- [ ] https://github.com/FSecureLABS/needle
 - [ ] https://github.com/guimaizi/get_domain
 - [ ] https://github.com/obscuritylabs/PeFixup
 - [ ] https://github.com/jhao104/proxy_pool
