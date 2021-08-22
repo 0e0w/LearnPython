@@ -816,6 +816,7 @@
 - [ ] https://github.com/dmaasland/proxyshell-poc
 - [ ] https://github.com/lengjibo/Rosemary
 - [ ] https://github.com/firmianay/firmeye
+- [ ] https://github.com/MatthewZito/brutus
 
 ## 0x06-Python逆向
 
