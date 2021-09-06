@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年9月3日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年9月6日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -528,6 +528,7 @@
 - [ ] https://github.com/9emin1/charlotte
 - [ ] https://github.com/bats3c/darkarmour
 - [ ] https://github.com/wetw0rk/Sickle
+- [ ] https://github.com/youhacker55/PayGen
 
 九、代理隧道
 
