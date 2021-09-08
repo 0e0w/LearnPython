@@ -496,6 +496,8 @@
 - [ ] https://github.com/rmb122/xss-receiver
 - [ ] https://github.com/Ekultek/XanXSS
 - [ ] https://github.com/commixproject/commix
+- [ ] https://github.com/r0075h3ll/Oralyzer
+- [ ] https://github.com/ggg4566/SQLEXP
 
 八、病毒免杀
 
@@ -827,6 +829,7 @@
 - [ ] https://github.com/wazuh/wazuh
 - [ ] https://github.com/winezer0/whatweb-plus
 - [ ] https://github.com/yunemse48/403bypasser
+- [ ] https://github.com/outflanknl/RedELK
 
 ## 0x06-Python逆向
 
