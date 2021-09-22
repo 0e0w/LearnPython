@@ -179,6 +179,7 @@
 - [ ] https://github.com/sngyai/Sequoia
 - [ ] https://github.com/vnpy/vnpy_ctastrategy
 - [ ] https://github.com/Micro-sheep/efinance
+- [ ] https://github.com/zengbin93/czsc
 
 四、优秀项目
 - [ ] https://github.com/tp4a/teleport
@@ -288,6 +289,7 @@
 - [ ] https://github.com/ice-doom/EyeJo
 - [ ] https://github.com/xz-zone/Webpackfind
 - [ ] https://github.com/Xc1Ym/cyberspace_map_API
+- [ ] https://github.com/Sma11New/webEye
 - 内网资产
 - [ ] https://github.com/YoungRichOG/Hosts_Boom
 
