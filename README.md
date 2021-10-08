@@ -447,6 +447,7 @@
 - [ ] https://github.com/JustYoomoon/Phoenix-Framework
 - [ ] https://github.com/d3ckx1/Fvuln
 - [ ] https://github.com/dhondta/dronesploit
+- [ ] https://github.com/vmware-labs/attack-surface-framework
 
 五、密码爆破
 - [ ] https://github.com/aedoo/Allscanner
@@ -829,6 +830,7 @@
 - [ ] https://github.com/outflanknl/RedELK
 - [ ] https://github.com/lyscf/IT-spider
 - [ ] https://github.com/Moham3dRiahi/XAttacker
+- [ ] https://github.com/ollypwn/Certipy
 
 ## 0x06-Python逆向
 
