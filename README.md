@@ -19,7 +19,7 @@
 - https://github.com/0e0w/LearnPython
 - https://github.com/vinta/awesome-python
 
-一、基础入门
+一、中文书籍
 - [ ] [《Python语言基础50课》](https://github.com/jackfrued/Python-Core-50-Courses)@骆昊
 - [ ] [《Python-100天从新手到大师》](https://github.com/jackfrued/Python-100-Days)@骆昊
 - [ ] [《以撸代码的形式学习Python》](https://github.com/xianhu/LearnPython)
@@ -40,30 +40,31 @@
 - [ ] [《365天深入理解Python》](https://github.com/0e0w/365Python)
 - [ ] [《Python3标准库》](https://github.com/bat67/The-Python-Standard-Library-by-Example)
 - [ ] [《流畅的Python》](https://github.com/cundi/fluent-python)
-- [ ] [《Research Software Engineering with Python》](https://github.com/merely-useful/py-rse)
-- [ ] [《10DaysOfPython》](https://github.com/Asabeneh/10DaysOfPython)
 - [ ] [《Pytnon黑客编程之极速入门》](https://github.com/xuanhun/PythonHackingBook1)
-
-二、高级进阶
 - [ ] [《Python 3 源码剖析》](https://github.com/flaggo/python3-source-code-analysis)
 
-三、算法学习
+二、英文书籍
+- [ ] [《10DaysOfPython》](https://github.com/Asabeneh/10DaysOfPython)
+- [ ] [《Research Software Engineering with Python》](https://github.com/merely-useful/py-rse)
+
+三、视频教程
+- [ ] [《Python编程与实践》](https://www.bilibili.com/video/av92186118)@北邮陈光
+- [ ] [Python 算法与数据结构视频教程](https://github.com/PegasusWang/python_data_structures_and_algorithms)
+
+四、培训演讲
+
+五、算法结构
 - [ ] [《The Algorithms - Python》](https://github.com/TheAlgorithms/Python)
 - [ ] [《Python的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-python)
 - [ ] [《数据结构和算法必知必会的50个代码实现》](https://github.com/wangzheng0822/algo)
 - [ ] [《Python36种设计模式》](https://github.com/ydf0509/python36patterns)
-
-四、机器学习
 - [ ] https://github.com/eriklindernoren/ML-From-Scratch
 
-五、学习视频
-- [ ] [《Python编程与实践》](https://www.bilibili.com/video/av92186118)@北邮陈光
-- [ ] [Python 算法与数据结构视频教程](https://github.com/PegasusWang/python_data_structures_and_algorithms)
+六、论坛版块
 
-六、Python论坛
+七、面试资料
 
-七、其他资源
-
+八、其他资源
 - [ ] [Python语言资料集合](https://github.com/HaoZhang95/Python24)
 - [ ] [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 - [ ] [awesome-flask-cn](https://github.com/haiiiiiyun/awesome-flask-cn)
@@ -277,7 +278,6 @@
 - [ ] https://github.com/rackerlabs/scantron
 
 三、资产收集
-
 - [ ] https://github.com/EASY233/Finger
 - [ ] https://github.com/wgpsec/ENScan
 - [ ] https://github.com/s7ckTeam/Glass
@@ -297,7 +297,6 @@
 - [ ] https://github.com/YoungRichOG/Hosts_Boom
 
 四、漏洞扫描
-
 - [ ] https://github.com/PaytmLabs/nerve
 - [ ] https://github.com/teamssix/pigat
 - [ ] https://github.com/Xyntax/POC-T
@@ -450,7 +449,6 @@
 - [ ] https://github.com/dhondta/dronesploit
 
 五、密码爆破
-
 - [ ] https://github.com/aedoo/Allscanner
 - [ ] https://github.com/qianniaoge/F-Scrack
 - [ ] https://github.com/j3ers3/Crackpy
@@ -460,7 +458,6 @@
 - [ ] https://github.com/0xHJK/TotalPass
 
 六、路径扫描
-
 - [ ] https://github.com/maurosoria/dirsearch
 - [ ] https://github.com/H4ckForJob/dirmap
 - [ ] https://github.com/aedoo/WebServiceScanner
@@ -485,7 +482,6 @@
 - [ ] https://github.com/deibit/cansina
 
 七、Web安全
-
 - [ ] https://github.com/knassar702/lorsrf
 - [ ] https://github.com/sqlmapproject/sqlmap
 - [ ] https://github.com/c0ny1/upload-fuzz-dic-builder
@@ -509,7 +505,6 @@
 - [ ] https://github.com/ggg4566/SQLEXP
 
 八、病毒免杀
-
 - https://github.com/topics/shellcode?l=python
 - https://github.com/search?l=Python&q=shellcode
 - https://github.com/search?l=Python&q=bypass
@@ -544,7 +539,6 @@
 - [ ] https://github.com/youhacker55/PayGen
 
 九、代理隧道
-
 - [ ] https://github.com/L-codes/Neo-reGeorg
 - [ ] https://github.com/nccgroup/ABPTTS
 - [ ] https://github.com/FunnyWolf/pystinger
@@ -559,7 +553,6 @@
 - [ ] https://github.com/XX-net/XX-Net
 
 十、内网渗透
-
 - [ ] https://github.com/loseys/BlackMamba
 - [ ] https://github.com/Ar3h/putter
 - [ ] https://github.com/bats3c/shad0w
@@ -574,7 +567,6 @@
 - [ ] https://github.com/burpheart/mbtm
 
 十一、蜜罐钓鱼
-
 - 邮件发送
 - 钓鱼模板
 - [ ] https://github.com/rsmusllp/king-phisher
@@ -587,7 +579,6 @@
 - [ ] https://github.com/7eu7d7/genshin_auto_fish
 
 十二、代码审计
-
 - [ ] https://github.com/zsdlove/Hades
 - [ ] https://github.com/alpha1e0/kiwi
 - [ ] https://github.com/bit4woo/python_sec
@@ -599,12 +590,10 @@
 十三、编码规范
 
 十四、应急响应
-
 - [ ] https://github.com/grayddq/GScan
 - [ ] https://github.com/AbdulRhmanAlfaifi/Rhaegal
 
 十五、移动安全
-
 - Android
 - [ ] https://github.com/s0md3v/Diggy
 - [ ] https://github.com/dwisiswant0/apkleaks
@@ -620,7 +609,6 @@
 - [ ] https://github.com/FSecureLABS/needle
 
 十六、漏洞赏金
-
 - [ ] https://github.com/honoki/bbrf-client
 - [ ] https://github.com/obheda12/GitDorker
 - [ ] https://github.com/ihebski/Soda
