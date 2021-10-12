@@ -835,6 +835,8 @@
 - [ ] https://github.com/lyscf/IT-spider
 - [ ] https://github.com/Moham3dRiahi/XAttacker
 - [ ] https://github.com/ollypwn/Certipy
+- [ ] https://github.com/Metarget/metarget
+- [ ] https://github.com/olafhartong/ThreatHunting
 
 ## 0x06-Python逆向
 
