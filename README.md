@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年10月12日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年10月13日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -224,6 +224,7 @@
 - [ ] https://github.com/babysor/Realtime-Voice-Clone-Chinese
 - [ ] https://github.com/eliben/pyelftools
 - [ ] https://github.com/xundididi/webSiteMonitor
+- [ ] https://github.com/nuxt/framework
 
 ## 0x05-Python安全
 
@@ -556,6 +557,7 @@
 - [ ] https://github.com/shimmeris/SCFProxy
 - [ ] https://github.com/kovige/NetScan
 - [ ] https://github.com/XX-net/XX-Net
+- [ ] https://github.com/tor2web/Tor2web
 
 十、内网渗透
 - [ ] https://github.com/loseys/BlackMamba
@@ -582,6 +584,7 @@
 - [ ] https://github.com/fireeye/ReelPhish
 - [ ] https://github.com/ustayready/CredSniper
 - [ ] https://github.com/7eu7d7/genshin_auto_fish
+- [ ] https://github.com/emalderson/ThePhish
 
 十二、代码审计
 - [ ] https://github.com/zsdlove/Hades
@@ -837,6 +840,7 @@
 - [ ] https://github.com/ollypwn/Certipy
 - [ ] https://github.com/Metarget/metarget
 - [ ] https://github.com/olafhartong/ThreatHunting
+- [ ] https://github.com/ail-project/ail-framework
 
 ## 0x06-Python逆向
 
