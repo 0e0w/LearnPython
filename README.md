@@ -842,6 +842,7 @@
 - [ ] https://github.com/Metarget/metarget
 - [ ] https://github.com/olafhartong/ThreatHunting
 - [ ] https://github.com/ail-project/ail-framework
+- [ ] https://github.com/blueudp/AF-ShellHunter
 
 ## 0x06-Python逆向
 
