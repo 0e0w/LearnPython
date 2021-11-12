@@ -860,6 +860,7 @@
 - [ ] https://github.com/RaiderZP/cnvd_fofa_gather
 - [ ] https://github.com/GhostStar/Arknights-Armada
 - [ ] https://github.com/Mustard404/Savior
+- [ ] https://github.com/secureworks/whiskeysamlandfriends
 
 ## 0x06-Python逆向
 
