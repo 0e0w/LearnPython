@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2021年11月11日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2021年11月12日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
 - [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
@@ -298,6 +298,7 @@
 - [ ] https://github.com/Sma11New/ip2domain
 - [ ] https://github.com/P1-Team/AlliN
 - [ ] https://github.com/webanalyzer/rules
+- [ ] https://github.com/kracer127/SiteScan
 - 内网资产
 - [ ] https://github.com/YoungRichOG/Hosts_Boom
 
@@ -454,6 +455,7 @@
 - [ ] https://github.com/dhondta/dronesploit
 - [ ] https://github.com/vmware-labs/attack-surface-framework
 - [ ] https://github.com/xx-zhang/pocsuite3-pocs
+- [ ] https://github.com/vulscanteam/vulscan
 
 五、密码爆破
 - [ ] https://github.com/aedoo/Allscanner
@@ -857,6 +859,7 @@
 - [ ] https://github.com/CrowdStrike/falconpy
 - [ ] https://github.com/RaiderZP/cnvd_fofa_gather
 - [ ] https://github.com/GhostStar/Arknights-Armada
+- [ ] https://github.com/Mustard404/Savior
 
 ## 0x06-Python逆向
 
