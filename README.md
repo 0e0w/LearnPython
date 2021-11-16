@@ -456,6 +456,7 @@
 - [ ] https://github.com/vmware-labs/attack-surface-framework
 - [ ] https://github.com/xx-zhang/pocsuite3-pocs
 - [ ] https://github.com/vulscanteam/vulscan
+- [ ] https://github.com/chibd2000/myscan
 
 五、密码爆破
 - [ ] https://github.com/aedoo/Allscanner
@@ -866,6 +867,7 @@
 - [ ] https://github.com/secureworks/whiskeysamlandfriends
 - [ ] https://github.com/eastmountyxz/NetworkSecuritySelf-study
 - [ ] https://github.com/winezer0/springboot_scan
+- [ ] https://github.com/1modm/petereport
 
 ## 0x06-Python逆向
 
