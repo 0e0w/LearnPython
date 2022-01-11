@@ -655,6 +655,7 @@
 - [ ] https://github.com/androguard/androguard
 - [ ] https://github.com/Ba-hub/R3verseBug
 - [ ] https://github.com/banteg/evil-jar
+- [ ] https://github.com/zhengjim/camille
 - iOS
 - [ ] https://github.com/eseGithub/iOSTools
 - [ ] https://github.com/FSecureLABS/needle
@@ -912,6 +913,7 @@
 - [ ] https://github.com/f0ng/poc2jar
 - [ ] https://github.com/AlphabugX/httpscan
 - [ ] https://github.com/Chudry/Xerror
+- [ ] https://github.com/fierceoj/ShonyDanza
 
 ## 0x06-Python逆向
 
