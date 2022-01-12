@@ -479,6 +479,7 @@
 - [ ] https://github.com/frostbits-security/ccat
 - [ ] https://github.com/openx-org/BLEN
 - [ ] https://github.com/tr0uble-mAker/POC-bomber
+- [ ] https://github.com/ExpLangcn/WanLi
 
 五、密码爆破
 - [ ] https://github.com/aedoo/Allscanner
