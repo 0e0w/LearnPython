@@ -4,17 +4,17 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2022年1月24日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2022年2月3日。本项目会持续更新，直到海枯石烂。
 
-- [0x01-Python资源](https://github.com/0e0w/LearnPython#0x01-python%E8%B5%84%E6%BA%90)
-- [0x02-Python标准](https://github.com/0e0w/LearnPython#0x02-python%E6%A0%87%E5%87%86)
-- [0x03-Python框架](https://github.com/0e0w/LearnPython#0x03-python%E6%A1%86%E6%9E%B6)
-- [0x04-Python项目](https://github.com/0e0w/LearnPython#0x04-python%E9%A1%B9%E7%9B%AE)
-- [0x05-Python安全](https://github.com/0e0w/LearnPython#0x05-python%E5%AE%89%E5%85%A8)
-- [0x06-Python逆向](https://github.com/0e0w/LearnPython#0x06-python%E9%80%86%E5%90%91)
-- [0x07-Python老师](https://github.com/0e0w/LearnPython#0x07-python%E8%80%81%E5%B8%88)
+- [01-Python资源](https://github.com/0e0w/LearnPython#01-python%E8%B5%84%E6%BA%90)
+- [02-Python标准](https://github.com/0e0w/LearnPython#02-python%E6%A0%87%E5%87%86)
+- [03-Python框架](https://github.com/0e0w/LearnPython#03-python%E6%A1%86%E6%9E%B6)
+- [04-Python项目](https://github.com/0e0w/LearnPython#04-python%E9%A1%B9%E7%9B%AE)
+- [05-Python安全](https://github.com/0e0w/LearnPython#05-python%E5%AE%89%E5%85%A8)
+- [06-Python逆向](https://github.com/0e0w/LearnPython#06-python%E9%80%86%E5%90%91)
+- [07-Python老师](https://github.com/0e0w/LearnPython#07-python%E8%80%81%E5%B8%88)
 
-## 0x01-Python资源
+## 01-Python资源
 
 - https://github.com/0e0w/LearnPython
 - https://github.com/vinta/awesome-python
@@ -76,9 +76,9 @@
 - [ ] https://github.com/kenwoodjw/python_interview_question
 - [ ] https://github.com/fly51fly/Practical_Python_Programming
 
-## 0x02-Python标准
+## 02-Python标准
 
-## 0x03-Python框架
+## 03-Python框架
 
 一、安全框架
 
@@ -147,7 +147,7 @@
 - [ ] https://github.com/iojw/socialscan
 - [ ] https://github.com/splitline/Pickora
 
-## 0x04-Python项目
+## 04-Python项目
 
 - https://github.com/trending/Python
 - https://github.com/topics/tool?l=Python
@@ -230,7 +230,7 @@
 - [ ] https://github.com/QingdaoU/OnlineJudge
 - [ ] https://github.com/HatBoy/Pcap-Analyzer
 
-## 0x05-Python安全
+## 05-Python安全
 
 - https://github.com/topics/xss?l=python
 - https://github.com/topics/xss-attacks?l=python
@@ -517,6 +517,7 @@
 - [ ] https://github.com/morph3/crawpy
 - [ ] https://github.com/zrquan/airsearch
 - [ ] https://github.com/cnhouzi/UrlCheck
+- [ ] https://github.com/jerrychan807/WSPIH
 
 七、Web安全
 - [ ] https://github.com/knassar702/lorsrf
@@ -920,7 +921,7 @@
 - [ ] https://github.com/bahruzjabiyev/T-Reqs-HTTP-Fuzzer
 - [ ] https://github.com/lxflxfcl/monitor
 
-## 0x06-Python逆向
+## 06-Python逆向
 
 一、通过Python逆向
 - [ ] https://github.com/hugsy/gef
@@ -945,7 +946,9 @@
 四、其他资源
 - [ ] https://github.com/Martyx00/CollaRE
 
-## 0x07-Python老师
+## 07-Python老师
 
 - 廖雪峰https://www.liaoxuefeng.com
 - 骆昊：https://github.com/jackfrued
+
+[![Stargazers over time](https://starchart.cc//0e0w/LearnPython.svg)](https://starchart.cc/0e0w/LearnPython)
