@@ -4,7 +4,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2022年8月31日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2022年9月2日。本项目会持续更新，直到海枯石烂。
 
 - [01-Python资源](https://github.com/0e0w/LearnPython#01-python%E8%B5%84%E6%BA%90)
 - [02-Python标准](https://github.com/0e0w/LearnPython#02-python%E6%A0%87%E5%87%86)
@@ -568,6 +568,7 @@
 - [ ] https://github.com/phith0n/conote-community
 - [ ] https://github.com/orleven/Celestion
 - [ ] https://github.com/wuba/Antenna
+- [ ] https://github.com/AbelChe/cola_dnslog
 
 八、病毒免杀
 - https://github.com/topics/shellcode?l=python
