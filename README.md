@@ -6,7 +6,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2023年1月1日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2023年1月7日。本项目会持续更新，直到海枯石烂。
 
 - [01-Python资源](https://github.com/0e0w/LearnPython#01-python%E8%B5%84%E6%BA%90)
 - [02-Python标准](https://github.com/0e0w/LearnPython#02-python%E6%A0%87%E5%87%86)
@@ -291,6 +291,7 @@
 - [ ] https://github.com/rackerlabs/scantron
 
 三、资产收集
+- [ ] https://github.com/SiJiDo/H
 - [ ] https://github.com/EASY233/Finger
 - [ ] https://github.com/wgpsec/ENScan
 - [ ] https://github.com/s7ckTeam/Glass
@@ -310,7 +311,6 @@
 - [ ] https://github.com/webanalyzer/rules
 - [ ] https://github.com/kracer127/SiteScan
 - [ ] https://github.com/F6JO/CmsVulScan
-- [ ] https://github.com/SiJiDo/H
 - [ ] https://github.com/RaiderZP/cnvd_fofa_gather
 - [ ] https://github.com/b0bac/ApolloScanner
 - 内网资产
