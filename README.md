@@ -6,7 +6,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2023年1月13日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2023年1月24日。本项目会持续更新，直到海枯石烂。
 
 - [01-Python资源](https://github.com/0e0w/LearnPython#01-python%E8%B5%84%E6%BA%90)
 - [02-Python标准](https://github.com/0e0w/LearnPython#02-python%E6%A0%87%E5%87%86)
@@ -554,6 +554,7 @@
 - [ ] https://github.com/lijiejie/eyes.sh
 - [ ] https://github.com/knassar702/lorsrf
 - [ ] https://github.com/sqlmapproject/sqlmap
+- [ ] https://github.com/r0oth3x49/ghauri
 - [ ] https://github.com/c0ny1/upload-fuzz-dic-builder
 - [ ] https://github.com/zhanghangorg/sqlinj-ant
 - [ ] https://github.com/cn-kali-team/Gui-Acunetix-Api
