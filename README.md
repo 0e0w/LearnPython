@@ -6,7 +6,7 @@
 
 关于Python的学习教程，可以参考[《365天深入理解Python》](https://github.com/0e0w/365Python)。Life is short. I use Python!
 
-本项目创建于2020年9月11日。最近一次更新时间为2023年1月24日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月11日。最近一次更新时间为2023年1月30日。本项目会持续更新，直到海枯石烂。
 
 - [01-Python资源](https://github.com/0e0w/LearnPython#01-python%E8%B5%84%E6%BA%90)
 - [02-Python标准](https://github.com/0e0w/LearnPython#02-python%E6%A0%87%E5%87%86)
@@ -317,6 +317,7 @@
 - [ ] https://github.com/YoungRichOG/Hosts_Boom
 
 四、漏洞扫描
+- [x] https://github.com/YagamiiLight/Cerberus
 - [ ] https://github.com/PaytmLabs/nerve
 - [ ] https://github.com/teamssix/pigat
 - [ ] https://github.com/Xyntax/POC-T
@@ -426,7 +427,6 @@
 - [ ] https://github.com/zer0yu/ZEROScan
 - [ ] https://github.com/cwkiller/unauthorized-check
 - [ ] https://github.com/Fplyth0ner-Combie/Bug-Project-Framework
-- [ ] https://github.com/YagamiiLight/Cerberus
 - [ ] https://github.com/lijiaxing1997/Gr33k
 - [ ] https://github.com/lijiaxing1997/chelei-framework
 - [ ] https://github.com/broken5/WebAliveScan
@@ -519,6 +519,7 @@
 - [ ] https://github.com/se55i0n/DBScanner
 - [ ] https://github.com/0xHJK/TotalPass
 - [ ] https://github.com/pry0cc/gorgo
+- [ ] https://github.com/phplaber/yawf
 
 六、路径扫描
 - [ ] https://github.com/maurosoria/dirsearch
@@ -963,6 +964,7 @@
 - [ ] https://github.com/hosch3n/msmap
 - [ ] https://github.com/bellingcat/octosuite
 - [ ] https://github.com/mxrch/GHunt
+- [ ] https://github.com/z-bool/QueryTools
 
 ## 06-Python逆向
 
