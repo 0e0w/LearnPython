@@ -313,6 +313,7 @@
 - [ ] https://github.com/F6JO/CmsVulScan
 - [ ] https://github.com/RaiderZP/cnvd_fofa_gather
 - [ ] https://github.com/b0bac/ApolloScanner
+- [ ] https://github.com/Soufaker/laoyue
 - 内网资产
 - [ ] https://github.com/YoungRichOG/Hosts_Boom
 
